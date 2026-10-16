@@ -1,0 +1,3125 @@
+{
+  "tracks": [
+    {
+      "src": "./%E7%B5%90%E6%9D%9F%E3%83%90%E3%83%B3%E3%83%89%20-%20%E8%BB%A2%E3%81%8C%E3%82%8B%E5%B2%A9%E3%80%81%E5%90%9B%E3%81%AB%E6%9C%9D%E3%81%8C%E9%99%8D%E3%82%8B.mp3",
+      "title": "転がる岩、君に朝が降る",
+      "artist": "結束バンド",
+      "album": "結束バンド",
+      "lyrics": {
+        "synchronized": true,
+        "lines": [
+          {
+            "time": 0,
+            "text": "作词 : 後藤正文"
+          },
+          {
+            "time": 1,
+            "text": "作曲 : 後藤正文"
+          },
+          {
+            "time": 2,
+            "text": "编曲 : 三井律郎"
+          },
+          {
+            "time": 19.328,
+            "text": "出来れば世界を僕は塗り変えたい"
+          },
+          {
+            "time": 25.91,
+            "text": "戦争をなくすような大逸れたことじゃない"
+          },
+          {
+            "time": 32.475,
+            "text": "だけどちょっと それもあるよな"
+          },
+          {
+            "time": 38.127,
+            "text": ""
+          },
+          {
+            "time": 38.62,
+            "text": "俳優や映画スターには成れない"
+          },
+          {
+            "time": 42.917,
+            "text": "それどころか 君の前でさえも上手に笑えない"
+          },
+          {
+            "time": 51.381,
+            "text": "そんな僕に術はないよな"
+          },
+          {
+            "time": 57.622,
+            "text": "嗚呼…"
+          },
+          {
+            "time": 60.779,
+            "text": ""
+          },
+          {
+            "time": 60.939,
+            "text": "何を間違った？"
+          },
+          {
+            "time": 62.637,
+            "text": "それさえもわからないんだ"
+          },
+          {
+            "time": 66.089,
+            "text": "ローリング ローリング"
+          },
+          {
+            "time": 67.559,
+            "text": "初めから持ってないのに胸が痛んだ"
+          },
+          {
+            "time": 73.701,
+            "text": ""
+          },
+          {
+            "time": 74.071,
+            "text": "僕らはきっとこの先も"
+          },
+          {
+            "time": 77.193,
+            "text": "心絡まって ローリング ローリング"
+          },
+          {
+            "time": 80.438,
+            "text": "凍てつく地面を転がるように走り出した"
+          },
+          {
+            "time": 88.702,
+            "text": ""
+          },
+          {
+            "time": 95.238,
+            "text": "理由もないのに何だか悲しい"
+          },
+          {
+            "time": 101.433,
+            "text": "泣けやしないから 余計に救いがない"
+          },
+          {
+            "time": 107.857,
+            "text": "そんな夜を温めるように歌うんだ"
+          },
+          {
+            "time": 117.912,
+            "text": ""
+          },
+          {
+            "time": 120.866,
+            "text": "岩は転がって 僕たちを何処かに連れて行くようにように"
+          },
+          {
+            "time": 127.151,
+            "text": "固い地面を分けて命が芽生えた"
+          },
+          {
+            "time": 133.546,
+            "text": "あの丘を越えたその先は"
+          },
+          {
+            "time": 136.805,
+            "text": "光り輝いたようにように"
+          },
+          {
+            "time": 139.992,
+            "text": "君の孤独も全て暴き出す朝だ"
+          },
+          {
+            "time": 148.434,
+            "text": ""
+          },
+          {
+            "time": 177.18,
+            "text": "赤い 赤い小さな車は君を乗せて"
+          },
+          {
+            "time": 189.909,
+            "text": "遠く向こうの角を曲がって"
+          },
+          {
+            "time": 196.22,
+            "text": "此処からは見えなくなった"
+          },
+          {
+            "time": 205.527,
+            "text": ""
+          },
+          {
+            "time": 206.258,
+            "text": "何をなくした？"
+          },
+          {
+            "time": 207.601,
+            "text": "それさえもわからないんだ"
+          },
+          {
+            "time": 210.871,
+            "text": "ローリング ローリング"
+          },
+          {
+            "time": 212.474,
+            "text": "初めから持ってないのに胸が痛んだ"
+          },
+          {
+            "time": 218.65,
+            "text": ""
+          },
+          {
+            "time": 218.977,
+            "text": "僕らはきっとこの先も"
+          },
+          {
+            "time": 222.152,
+            "text": "心絡まって ローリングローリング"
+          },
+          {
+            "time": 225.227,
+            "text": "凍てつく世界を転がるように走り出した"
+          }
+        ]
+      },
+      "metadataError": false,
+      "cover": "./metadata/76e94f20fef4cec455fdd613b64e50de1cefafbe6c2aa16cfebf355d25c695ce.jpg",
+      "metadataReady": true
+    },
+    {
+      "src": "./%E5%A1%9E%E5%A3%AC%E5%94%B1%E7%89%87-MSR%2C%20Crywolf%20-%20Somniomancer%20%5Bnull%20set%5D.mp3",
+      "title": "Somniomancer [null set]",
+      "artist": "塞壬唱片-MSR, Crywolf",
+      "album": "众生行记OST",
+      "lyrics": {
+        "synchronized": true,
+        "lines": [
+          {
+            "time": 0,
+            "text": "作词 : Crywolf"
+          },
+          {
+            "time": 1,
+            "text": "作曲 : Crywolf"
+          },
+          {
+            "time": 2,
+            "text": "编曲 : Crywolf"
+          },
+          {
+            "time": 38.65,
+            "text": "Cover us"
+          },
+          {
+            "time": 39.81,
+            "text": "Holy one"
+          },
+          {
+            "time": 41.21,
+            "text": "In the light"
+          },
+          {
+            "time": 42.33,
+            "text": "Of your sun"
+          },
+          {
+            "time": 48.36,
+            "text": "Purified"
+          },
+          {
+            "time": 49.73,
+            "text": "in the flood"
+          },
+          {
+            "time": 50.83,
+            "text": "in the fire"
+          },
+          {
+            "time": 51.93,
+            "text": "Of your love"
+          },
+          {
+            "time": 53.05,
+            "text": ""
+          },
+          {
+            "time": 55.03,
+            "text": "Why have you forsaken us?"
+          },
+          {
+            "time": 62.34,
+            "text": "Mother of this cursed rage that burns in us"
+          },
+          {
+            "time": 71.93,
+            "text": "Will you hear our voices, make us glorious?"
+          },
+          {
+            "time": 81.15,
+            "text": ""
+          },
+          {
+            "time": 81.92,
+            "text": "Cover us"
+          },
+          {
+            "time": 83.16,
+            "text": "Holy one"
+          },
+          {
+            "time": 84.32,
+            "text": "In the light"
+          },
+          {
+            "time": 85.5,
+            "text": "Of your sun"
+          },
+          {
+            "time": 91.68,
+            "text": "The polyphonic wailing iridescent"
+          },
+          {
+            "time": 92.65,
+            "text": "in the flood"
+          },
+          {
+            "time": 93.98,
+            "text": "In the skototropic figures"
+          },
+          {
+            "time": 95.15,
+            "text": "Blooming the light"
+          },
+          {
+            "time": 105.81,
+            "text": ""
+          },
+          {
+            "time": 112.99,
+            "text": "Why have you forsaken us?"
+          },
+          {
+            "time": 119.85,
+            "text": "Mother of this cursed rage that burns in us"
+          },
+          {
+            "time": 134.44,
+            "text": "."
+          },
+          {
+            "time": 139.07,
+            "text": "."
+          },
+          {
+            "time": 144.05,
+            "text": "."
+          },
+          {
+            "time": 148.8,
+            "text": "."
+          },
+          {
+            "time": 155.29,
+            "text": "（I just want to wake up.)"
+          },
+          {
+            "time": 157.03,
+            "text": ""
+          },
+          {
+            "time": 157.64,
+            "text": "Cover us"
+          },
+          {
+            "time": 158.69,
+            "text": "Holy one"
+          },
+          {
+            "time": 159.97,
+            "text": "In the light"
+          },
+          {
+            "time": 161.09,
+            "text": "Of your sun"
+          },
+          {
+            "time": 162.32,
+            "text": "Purified"
+          },
+          {
+            "time": 163.5,
+            "text": "in the flood"
+          },
+          {
+            "time": 164.85,
+            "text": "in the fire"
+          },
+          {
+            "time": 166.02,
+            "text": "Of your love"
+          },
+          {
+            "time": 167.31,
+            "text": ""
+          },
+          {
+            "time": 169.19,
+            "text": "Sing our hearts awake in us"
+          },
+          {
+            "time": 174.34,
+            "text": "(Floating through the sky)"
+          },
+          {
+            "time": 179.12,
+            "text": "See the stars they yearn for us"
+          },
+          {
+            "time": 183.63,
+            "text": "(Meet us here)"
+          }
+        ]
+      },
+      "metadataError": false,
+      "cover": "./metadata/261e512f641517d6a690b779bf220fa61d746a14bdf543fa42ac7e87f349e65c.jpg",
+      "metadataReady": true
+    },
+    {
+      "src": "./%E5%A1%9E%E5%A3%AC%E5%94%B1%E7%89%87-MSR%2C%20Edine%20-%20I%20Will%20Touch%20the%20Sky.mp3",
+      "title": "I Will Touch the Sky",
+      "artist": "塞壬唱片-MSR, Edine",
+      "album": "I Will Touch the Sky",
+      "lyrics": {
+        "synchronized": true,
+        "lines": [
+          {
+            "time": 0,
+            "text": "词 : Edine"
+          },
+          {
+            "time": 1,
+            "text": "曲 : Edine"
+          },
+          {
+            "time": 2,
+            "text": "编曲 : Eric"
+          },
+          {
+            "time": 3,
+            "text": "吉他 : YU"
+          },
+          {
+            "time": 4,
+            "text": "混音 : 阿勇"
+          },
+          {
+            "time": 5,
+            "text": "母带 : Eric"
+          },
+          {
+            "time": 37.77,
+            "text": "Keep holding on"
+          },
+          {
+            "time": 44.836,
+            "text": "It’s human nature to keep holding on"
+          },
+          {
+            "time": 59.802,
+            "text": "To never let go"
+          },
+          {
+            "time": 66.211,
+            "text": "It’s human instinct to never let go"
+          },
+          {
+            "time": 77.036,
+            "text": "And if you can touch the sky"
+          },
+          {
+            "time": 80.554,
+            "text": "You’ll see there’s a pattern, a pattern"
+          },
+          {
+            "time": 87.386,
+            "text": "And if you can touch the sky"
+          },
+          {
+            "time": 91.169,
+            "text": "You'll see it's a pattern, a pattern"
+          },
+          {
+            "time": 98.289,
+            "text": "That the human instinct to keep holding on"
+          },
+          {
+            "time": 127.146,
+            "text": "The universe in my mind"
+          },
+          {
+            "time": 135.324,
+            "text": "Our universe I have to find"
+          },
+          {
+            "time": 143.587,
+            "text": "And if you can touch the skylight"
+          },
+          {
+            "time": 149.435,
+            "text": "The truth lies in the pure and white"
+          },
+          {
+            "time": 160.058,
+            "text": "The truth is in my eyes"
+          },
+          {
+            "time": 165.761,
+            "text": "I will touch the sky"
+          },
+          {
+            "time": 170.985,
+            "text": "I will reach the eternal light"
+          },
+          {
+            "time": 176.437,
+            "text": "With my wings spread wide"
+          },
+          {
+            "time": 182.06,
+            "text": "I’ll soar up high"
+          },
+          {
+            "time": 207.723,
+            "text": "It’s my human instinct to keep"
+          },
+          {
+            "time": 227.074,
+            "text": "I will touch the sky"
+          },
+          {
+            "time": 232.219,
+            "text": "I will reach the eternal light"
+          },
+          {
+            "time": 237.539,
+            "text": "With my wings spread wide"
+          },
+          {
+            "time": 242.933,
+            "text": "I’ll soar up high"
+          },
+          {
+            "time": 288.308,
+            "text": "It’s my human instinct to never let go"
+          }
+        ]
+      },
+      "metadataError": false,
+      "cover": "./metadata/11b0de6960b9305d98ce3c2dcba555ab853fdeda21b5b52577334bb2e5407ce1.jpg",
+      "metadataReady": true
+    },
+    {
+      "src": "./%E5%AE%87%E5%A4%9A%E7%94%B0%E3%83%92%E3%82%AB%E3%83%AB%20-%20One%20Last%20Kiss.mp3",
+      "title": "One Last Kiss",
+      "artist": "宇多田ヒカル",
+      "album": "One Last Kiss",
+      "lyrics": {
+        "synchronized": true,
+        "lines": [
+          {
+            "time": 0,
+            "text": "作词 : 宇多田ヒカル"
+          },
+          {
+            "time": 1,
+            "text": "编曲 : 宇多田ヒカル/A. G. Cook"
+          },
+          {
+            "time": 2,
+            "text": "制作人 : 宇多田ヒカル/A. G. Cook"
+          },
+          {
+            "time": 3,
+            "text": "作曲 : 宇多田ヒカル"
+          },
+          {
+            "time": 18.61,
+            "text": ""
+          },
+          {
+            "time": 20.542,
+            "text": "初めてのルーブルは"
+          },
+          {
+            "time": 22.559,
+            "text": "なんてことはなかったわ"
+          },
+          {
+            "time": 24.765,
+            "text": "私だけのモナリザ"
+          },
+          {
+            "time": 26.713,
+            "text": "もうとっくに出会ってたから"
+          },
+          {
+            "time": 29.125,
+            "text": "初めてあなたを見た"
+          },
+          {
+            "time": 30.973,
+            "text": "あの日動き出した歯車"
+          },
+          {
+            "time": 33.327,
+            "text": "止められない喪失の予感"
+          },
+          {
+            "time": 37.257,
+            "text": ""
+          },
+          {
+            "time": 37.728,
+            "text": "もういっぱいあるけど"
+          },
+          {
+            "time": 43.372,
+            "text": "もう一つ増やしましょう"
+          },
+          {
+            "time": 47.7,
+            "text": "(Can you give me one last kiss？)"
+          },
+          {
+            "time": 51.975,
+            "text": "忘れたくないこと"
+          },
+          {
+            "time": 54.407,
+            "text": ""
+          },
+          {
+            "time": 54.809,
+            "text": "Oh oh oh oh oh…"
+          },
+          {
+            "time": 60.578,
+            "text": "忘れたくないこと"
+          },
+          {
+            "time": 63.356,
+            "text": "Oh oh oh oh oh…"
+          },
+          {
+            "time": 69.181,
+            "text": "I love you more than you'll ever know"
+          },
+          {
+            "time": 72.591,
+            "text": ""
+          },
+          {
+            "time": 80.498,
+            "text": "「写真は苦手なんだ」"
+          },
+          {
+            "time": 82.381,
+            "text": "でもそんなものはいらないわ"
+          },
+          {
+            "time": 84.745,
+            "text": "あなたが焼きついたまま"
+          },
+          {
+            "time": 86.677,
+            "text": "私の心のプロジェクター"
+          },
+          {
+            "time": 88.996,
+            "text": "寂しくないふりしてた"
+          },
+          {
+            "time": 90.812,
+            "text": "まあ、そんなのお互い様か"
+          },
+          {
+            "time": 93.243,
+            "text": "誰かを求めることは"
+          },
+          {
+            "time": 95.107,
+            "text": "即ち傷つくことだった"
+          },
+          {
+            "time": 97.381,
+            "text": ""
+          },
+          {
+            "time": 97.796,
+            "text": "Oh, can you give me one last kiss？"
+          },
+          {
+            "time": 103.364,
+            "text": "燃えるようなキスをしよう"
+          },
+          {
+            "time": 107.611,
+            "text": "忘れたくても"
+          },
+          {
+            "time": 111.927,
+            "text": "忘れられないほど"
+          },
+          {
+            "time": 114.379,
+            "text": ""
+          },
+          {
+            "time": 114.809,
+            "text": "Oh oh oh oh oh…"
+          },
+          {
+            "time": 120.643,
+            "text": "I love you more than you'll ever know"
+          },
+          {
+            "time": 123.272,
+            "text": "Oh oh oh oh oh…"
+          },
+          {
+            "time": 129.161,
+            "text": "I love you more than you'll ever know"
+          },
+          {
+            "time": 132.394,
+            "text": ""
+          },
+          {
+            "time": 149.06,
+            "text": "もう分かっているよ"
+          },
+          {
+            "time": 154.761,
+            "text": "この世の終わりでも"
+          },
+          {
+            "time": 159.113,
+            "text": "年をとっても"
+          },
+          {
+            "time": 165.707,
+            "text": "忘れられない人"
+          },
+          {
+            "time": 167.617,
+            "text": ""
+          },
+          {
+            "time": 167.964,
+            "text": "Oh oh oh oh oh…"
+          },
+          {
+            "time": 169.953,
+            "text": "忘れられない人"
+          },
+          {
+            "time": 178.99,
+            "text": "Oh oh oh oh oh…"
+          },
+          {
+            "time": 180.809,
+            "text": "I love you more than you'll ever know"
+          },
+          {
+            "time": 183.76,
+            "text": "Oh oh oh oh oh…"
+          },
+          {
+            "time": 189.242,
+            "text": "忘れられない人"
+          },
+          {
+            "time": 192.367,
+            "text": "Oh oh oh oh oh…"
+          },
+          {
+            "time": 197.854,
+            "text": "I love you more than you'll ever know"
+          },
+          {
+            "time": 200.604,
+            "text": ""
+          },
+          {
+            "time": 226.026,
+            "text": "吹いていった風の後を"
+          },
+          {
+            "time": 230.237,
+            "text": "追いかけた　眩しい午後"
+          },
+          {
+            "time": 235.411,
+            "text": ""
+          }
+        ]
+      },
+      "metadataError": false,
+      "cover": "./metadata/2582bffa4887191bd508b396a480882eb23a652a744f53a61372f113cc7b8efc.jpg",
+      "metadataReady": true
+    },
+    {
+      "src": "./ChiliChill%E4%B9%90%E5%9B%A2%20-%20%E9%A3%9E%E9%B8%9F%E8%AF%B4.mp3",
+      "title": "飞鸟说",
+      "artist": "ChiliChill乐团",
+      "album": "混入人类计划",
+      "lyrics": {
+        "synchronized": true,
+        "lines": [
+          {
+            "time": 0,
+            "text": "作词 : ChiliChill乐团"
+          },
+          {
+            "time": 0.292,
+            "text": "作曲 : ChiliChill乐团"
+          },
+          {
+            "time": 0.584,
+            "text": "制作人 : ChiliChill乐团"
+          },
+          {
+            "time": 0.876,
+            "text": "“老师世界上有没有办法"
+          },
+          {
+            "time": 4.563,
+            "text": "让我们可以永远不长大"
+          },
+          {
+            "time": 8.461,
+            "text": "我向往人间如梦的繁华"
+          },
+          {
+            "time": 12.746,
+            "text": "却害怕往前走越过悬崖”"
+          },
+          {
+            "time": 16.024,
+            "text": ""
+          },
+          {
+            "time": 16.792,
+            "text": "那些艺术家总对小孩危言耸听"
+          },
+          {
+            "time": 20.718,
+            "text": "唱着所谓长大就是不断地失去"
+          },
+          {
+            "time": 24.74,
+            "text": "夜晚 点燃 烟火 绚烂 到灰烬"
+          },
+          {
+            "time": 31.826999999999998,
+            "text": "有些故事你要自己经历"
+          },
+          {
+            "time": 38.917,
+            "text": ""
+          },
+          {
+            "time": 40.662,
+            "text": "也许你会跌倒会哭得很难看"
+          },
+          {
+            "time": 44.655,
+            "text": "坚信着的信仰被不断地推翻"
+          },
+          {
+            "time": 48.74,
+            "text": "你总提醒自己乐观"
+          },
+          {
+            "time": 51.379,
+            "text": "还是忍不住眼泪掉下来"
+          },
+          {
+            "time": 56.834,
+            "text": "你曾以为拥有最顽强的姿态"
+          },
+          {
+            "time": 60.959,
+            "text": "笑着说没关系掩盖心底的敏感"
+          },
+          {
+            "time": 66.426,
+            "text": "可那些遗憾 当暮色渐晚"
+          },
+          {
+            "time": 71.213,
+            "text": "还是会耿耿于怀"
+          },
+          {
+            "time": 73.714,
+            "text": "“老师既然长大如此无奈"
+          },
+          {
+            "time": 77.43,
+            "text": "为何还要我们学会飞翔"
+          },
+          {
+            "time": 81.447,
+            "text": "天空的尽头是什么答案"
+          },
+          {
+            "time": 85.421,
+            "text": "值不值得用一生去交换"
+          },
+          {
+            "time": 89.865,
+            "text": "年轻的长叹变成风推着我俯瞰"
+          },
+          {
+            "time": 93.883,
+            "text": "踩过的泥潭早已花开五彩斑斓"
+          },
+          {
+            "time": 97.898,
+            "text": "原来 我已 走过 颠簸 路漫漫"
+          },
+          {
+            "time": 105.285,
+            "text": "说一声再见了我的少年时代"
+          },
+          {
+            "time": 111.371,
+            "text": "如果一切能重来"
+          },
+          {
+            "time": 113.514,
+            "text": ""
+          },
+          {
+            "time": 114.027,
+            "text": "我依然会跌倒会哭得很难看"
+          },
+          {
+            "time": 117.885,
+            "text": "就算有了预判还是会被伤害"
+          },
+          {
+            "time": 121.974,
+            "text": "可一路兑换的勇敢"
+          },
+          {
+            "time": 124.542,
+            "text": "已足够让我自己站起来"
+          },
+          {
+            "time": 130.049,
+            "text": "我改不掉在交叉路左顾右盼"
+          },
+          {
+            "time": 134.198,
+            "text": "可接受了每个选择都伴随遗憾"
+          },
+          {
+            "time": 139.705,
+            "text": "难以释怀的 让时间冲淡"
+          },
+          {
+            "time": 144.268,
+            "text": "至少我还在期盼"
+          },
+          {
+            "time": 149.693,
+            "text": ""
+          },
+          {
+            "time": 162.228,
+            "text": "我们都会拥有美好的未来"
+          },
+          {
+            "time": 169.295,
+            "text": ""
+          },
+          {
+            "time": 170.864,
+            "text": "当有一天你不再纠结于答案"
+          },
+          {
+            "time": 175.062,
+            "text": "当我们又重逢于天涯或沧海"
+          },
+          {
+            "time": 178.861,
+            "text": "这一路的辛酸和孤单和愤慨"
+          },
+          {
+            "time": 183.699,
+            "text": "要一吐为快"
+          },
+          {
+            "time": 187.051,
+            "text": "“我一定会到达我想去的地方"
+          },
+          {
+            "time": 191.066,
+            "text": "旅途结束后也许还会有新渴望”"
+          },
+          {
+            "time": 196.651,
+            "text": "偶尔也迷惘"
+          },
+          {
+            "time": 199.025,
+            "text": "偶尔也荒唐 偶尔敞亮"
+          },
+          {
+            "time": 202.926,
+            "text": "我们都一样"
+          },
+          {
+            "time": 205.419,
+            "text": "漂泊在这片蔚蓝"
+          },
+          {
+            "time": 206.95,
+            "text": ""
+          },
+          {
+            "time": 208.321,
+            "text": "编曲 : ChiliChill乐团"
+          },
+          {
+            "time": 208.821,
+            "text": "吉他 : 枫丶CreeCai"
+          },
+          {
+            "time": 209.321,
+            "text": "贝斯 : 小伍Satori"
+          },
+          {
+            "time": 209.821,
+            "text": "鼓 : Nik Hughes"
+          },
+          {
+            "time": 210.321,
+            "text": "合唱 : 再见动物园合唱团"
+          },
+          {
+            "time": 210.821,
+            "text": "合唱指挥 : 杨馥榕"
+          },
+          {
+            "time": 211.321,
+            "text": "合唱录音 : 李品一"
+          },
+          {
+            "time": 211.821,
+            "text": "合唱录音室 : 凌音音乐 Ascentone music"
+          },
+          {
+            "time": 212.321,
+            "text": "混音 : ChiliChill乐团"
+          },
+          {
+            "time": 212.821,
+            "text": "母带 : ChiliChill乐团"
+          }
+        ]
+      },
+      "metadataError": false,
+      "cover": "./metadata/313e1d2ec2125e2b6b35672c0e3d1d85437d0a41db8579ce05cd89bd143ca3d7.jpg",
+      "metadataReady": true
+    },
+    {
+      "src": "./Coldplay%20-%20The%20Scientist.mp3",
+      "title": "The Scientist",
+      "artist": "Coldplay",
+      "album": "The Scientist",
+      "lyrics": {
+        "synchronized": true,
+        "lines": [
+          {
+            "time": 0,
+            "text": "作词 : Guy Berryman/Chris Martin/Jonny Buckland/Will Champion"
+          },
+          {
+            "time": 1,
+            "text": "作曲 : Guy Berryman/Chris Martin/Jonny Buckland/Will Champion"
+          },
+          {
+            "time": 27.95,
+            "text": "Come up to meet you"
+          },
+          {
+            "time": 31.1,
+            "text": "Tell you I'm sorry"
+          },
+          {
+            "time": 34.1,
+            "text": "You don't know how lovely you are"
+          },
+          {
+            "time": 40.84,
+            "text": "I had to find you"
+          },
+          {
+            "time": 44.7,
+            "text": "Tell you I need you"
+          },
+          {
+            "time": 47.29,
+            "text": "Tell you I set you apart"
+          },
+          {
+            "time": 53.82,
+            "text": "Tell me your secrets"
+          },
+          {
+            "time": 57.4,
+            "text": "And ask me your questions"
+          },
+          {
+            "time": 60.37,
+            "text": "Oh let's go back to the start"
+          },
+          {
+            "time": 66.86,
+            "text": "Running in circles"
+          },
+          {
+            "time": 70.25,
+            "text": "Coming up tails"
+          },
+          {
+            "time": 73.4,
+            "text": "Heads on a science apart"
+          },
+          {
+            "time": 79.55,
+            "text": "Nobody said it was easy"
+          },
+          {
+            "time": 86.15,
+            "text": "It's such a shame for us to part"
+          },
+          {
+            "time": 92.53,
+            "text": "Nobody said it was easy"
+          },
+          {
+            "time": 99.15,
+            "text": "No one ever said it would be this hard"
+          },
+          {
+            "time": 108.21,
+            "text": "Oh take me back to the start"
+          },
+          {
+            "time": 139.86,
+            "text": "I was just guessing"
+          },
+          {
+            "time": 142.84,
+            "text": "At numbers and figures"
+          },
+          {
+            "time": 146.1,
+            "text": "Pulling the puzzles apart"
+          },
+          {
+            "time": 152.53,
+            "text": "Questions of science"
+          },
+          {
+            "time": 155.55,
+            "text": "Science and progress"
+          },
+          {
+            "time": 158.84,
+            "text": "Do not speak as loud as my heart"
+          },
+          {
+            "time": 165.41,
+            "text": "But tell me you love me"
+          },
+          {
+            "time": 168.41,
+            "text": "Come back and haunt me"
+          },
+          {
+            "time": 171.9,
+            "text": "Oh and I rush to the start"
+          },
+          {
+            "time": 178.37,
+            "text": "Running in circles"
+          },
+          {
+            "time": 182,
+            "text": "chasing our tails"
+          },
+          {
+            "time": 184.87,
+            "text": "Coming back as we are"
+          },
+          {
+            "time": 191.24,
+            "text": "Nobody said it was easy"
+          },
+          {
+            "time": 197.81,
+            "text": "Oh it's such a shame for us to part"
+          },
+          {
+            "time": 204.13,
+            "text": "Nobody said it was easy"
+          },
+          {
+            "time": 211.39,
+            "text": "No one ever said it would be so hard"
+          },
+          {
+            "time": 219.72,
+            "text": "I'm going back to the start."
+          },
+          {
+            "time": 251.56,
+            "text": "Oh..."
+          }
+        ]
+      },
+      "metadataError": false,
+      "cover": "./metadata/d6d61697a44b8dc517ef817a7c9288fa52a75e29f04f9a5d5d2a6b0f7cf9476d.jpg",
+      "metadataReady": true
+    },
+    {
+      "src": "./Frank%20Ocean%20-%20White%20Ferrari.mp3",
+      "title": "White Ferrari",
+      "artist": "Frank Ocean",
+      "album": "Blonde",
+      "lyrics": {
+        "synchronized": true,
+        "lines": [
+          {
+            "time": 0,
+            "text": "作词 : Frank Ocean/Kanye West/Paul McCartney/John Lennon/Malay Ho"
+          },
+          {
+            "time": 0.05,
+            "text": "作曲 : Frank Ocean/Kanye West/Paul McCartney/John Lennon/Malay Ho"
+          },
+          {
+            "time": 0.1,
+            "text": "编曲 : Alex G/Buddy Ross/Frank Ocean/Jon Brion"
+          },
+          {
+            "time": 0.15,
+            "text": "制作人 : Frank Ocean/Jon Brion/Om'mas Keith"
+          },
+          {
+            "time": 0.21,
+            "text": "Bad luck to talk on these rides"
+          },
+          {
+            "time": 8.52,
+            "text": "Mind on the road, your dilated eyes"
+          },
+          {
+            "time": 14.2,
+            "text": "Watch the clouds float, white Ferrari"
+          },
+          {
+            "time": 19,
+            "text": "Had a good time"
+          },
+          {
+            "time": 22.2,
+            "text": "Sweet sixteen, how was I supposed to know anything?"
+          },
+          {
+            "time": 26.38,
+            "text": "I let you out at Central"
+          },
+          {
+            "time": 33.6,
+            "text": "I didn't care to state the plain"
+          },
+          {
+            "time": 41.19,
+            "text": "Kept my mouth closed"
+          },
+          {
+            "time": 43.28,
+            "text": "We're both so familiar"
+          },
+          {
+            "time": 51.16,
+            "text": "White Ferrari"
+          },
+          {
+            "time": 57.53,
+            "text": "Stick by me, close by me"
+          },
+          {
+            "time": 58.92,
+            "text": "You were find"
+          },
+          {
+            "time": 60.76,
+            "text": "You were find here"
+          },
+          {
+            "time": 62.81,
+            "text": "That's just a slow body"
+          },
+          {
+            "time": 65.75,
+            "text": "You left when I forgot to speak"
+          },
+          {
+            "time": 69.79,
+            "text": "So I text to speech, lesser speeds"
+          },
+          {
+            "time": 72.11,
+            "text": "Texas speed, yes"
+          },
+          {
+            "time": 74.58,
+            "text": "Basic takes its toll on me"
+          },
+          {
+            "time": 76.75,
+            "text": "'ventually, 'ventually, yes"
+          },
+          {
+            "time": 79.65,
+            "text": "Ahh, on me 'ventually, 'ventually, yes"
+          },
+          {
+            "time": 84.12,
+            "text": "I care for you still and I will forever"
+          },
+          {
+            "time": 94.44,
+            "text": "That was my part of the deal, honest"
+          },
+          {
+            "time": 98.93,
+            "text": "We got so familiar"
+          },
+          {
+            "time": 104.73,
+            "text": "Spending each day of the year, White Ferrari"
+          },
+          {
+            "time": 114,
+            "text": "Good times"
+          },
+          {
+            "time": 117.68,
+            "text": "In this life, life"
+          },
+          {
+            "time": 121.63,
+            "text": "In this life, life"
+          },
+          {
+            "time": 131.1,
+            "text": "One too many years"
+          },
+          {
+            "time": 133.49,
+            "text": "Some tattooed eyelids on a facelift（thought you might want to know now）"
+          },
+          {
+            "time": 139.65,
+            "text": "Mind over matter is magic"
+          },
+          {
+            "time": 143.58,
+            "text": "I do magic"
+          },
+          {
+            "time": 148.62,
+            "text": "If you think about it it'll be over in no time and that's life"
+          },
+          {
+            "time": 186.8,
+            "text": "I'm sure we're taller in another dimension"
+          },
+          {
+            "time": 191.15,
+            "text": "You say we're small and not worth the mention"
+          },
+          {
+            "time": 195.35,
+            "text": "You’re tired of moving, your body’s aching"
+          },
+          {
+            "time": 199.85,
+            "text": "We could vacay, there's places to go"
+          },
+          {
+            "time": 203.83,
+            "text": "Clearly this isn't all that there is（no way）"
+          },
+          {
+            "time": 208.18,
+            "text": "Can't take what's been given（no way）"
+          },
+          {
+            "time": 210.53,
+            "text": "But we're so okay here, we're doing fine"
+          },
+          {
+            "time": 214.91,
+            "text": "Primal and naked"
+          },
+          {
+            "time": 217.69,
+            "text": "You dream of walls that hold us in prison"
+          },
+          {
+            "time": 221.85,
+            "text": "It's just a skull, least that's what they call it"
+          },
+          {
+            "time": 226.58,
+            "text": "And we're free to roam"
+          }
+        ]
+      },
+      "metadataError": false,
+      "cover": "./metadata/3a074de9c98f6653c24f289c48669d4b1cb585b352741d921ae41996a1c6139d.jpg",
+      "metadataReady": true
+    },
+    {
+      "src": "./Glass%20Animals%20-%20Agnes.mp3",
+      "title": "Agnes",
+      "artist": "Glass Animals",
+      "album": "How To Be A Human Being",
+      "lyrics": {
+        "synchronized": true,
+        "lines": [
+          {
+            "time": 0,
+            "text": "作词 : Dave Bayley"
+          },
+          {
+            "time": 1,
+            "text": "作曲 : Dave Bayley"
+          },
+          {
+            "time": 47.4,
+            "text": "Agnes just stop and think a minute"
+          },
+          {
+            "time": 50.31,
+            "text": "Why don't you light that cigarette and"
+          },
+          {
+            "time": 53.24,
+            "text": "Calm down now stop and breathe a second"
+          },
+          {
+            "time": 56.15,
+            "text": "Go back to the very beginning"
+          },
+          {
+            "time": 59.04,
+            "text": "Can't you see what was different then?"
+          },
+          {
+            "time": 61.98,
+            "text": "You were just popping Percocet"
+          },
+          {
+            "time": 64.8,
+            "text": "Maybe just four a week at best"
+          },
+          {
+            "time": 67.78,
+            "text": "Maybe a smoke to clear the head"
+          },
+          {
+            "time": 70.9,
+            "text": "Your head is so numb"
+          },
+          {
+            "time": 73.59,
+            "text": "That nervous breath you try to hide"
+          },
+          {
+            "time": 76.71,
+            "text": "Between the motions"
+          },
+          {
+            "time": 79.52,
+            "text": "That trembling tender little sigh"
+          },
+          {
+            "time": 82.65,
+            "text": "And so it goes"
+          },
+          {
+            "time": 85.38,
+            "text": "A choking rose back"
+          },
+          {
+            "time": 88.43,
+            "text": "To be reborn"
+          },
+          {
+            "time": 90.95,
+            "text": "I want to hold you like you're mine"
+          },
+          {
+            "time": 128.89,
+            "text": "You see the sad in everything a"
+          },
+          {
+            "time": 131.69,
+            "text": "Genius of love and loneliness and"
+          },
+          {
+            "time": 134.56,
+            "text": "This time you overdid the liquor"
+          },
+          {
+            "time": 137.48,
+            "text": "This time you pulled the ******' trigger"
+          },
+          {
+            "time": 140.42,
+            "text": "These days you're rolling all the time"
+          },
+          {
+            "time": 143.43,
+            "text": "So low so you keep getting high"
+          },
+          {
+            "time": 146.24,
+            "text": "Where went that cheeky friend of mine?"
+          },
+          {
+            "time": 149.15,
+            "text": "Where went that billion dollar smile?"
+          },
+          {
+            "time": 152.33,
+            "text": "Guess life is long"
+          },
+          {
+            "time": 155.14,
+            "text": "When soaked in sadness"
+          },
+          {
+            "time": 158.38,
+            "text": "On borrowed time"
+          },
+          {
+            "time": 160.95,
+            "text": "From Mr Madness"
+          },
+          {
+            "time": 163.93,
+            "text": "And so it goes"
+          },
+          {
+            "time": 166.74,
+            "text": "A choking rose back"
+          },
+          {
+            "time": 169.63,
+            "text": "To be reborn"
+          },
+          {
+            "time": 172.55,
+            "text": "I want to hold you like you're mine"
+          },
+          {
+            "time": 175.69,
+            "text": "You're gone but you're on my mind"
+          },
+          {
+            "time": 178.29,
+            "text": "I'm lost but I don't know why"
+          },
+          {
+            "time": 181.2,
+            "text": "You're gone but you're on my mind"
+          },
+          {
+            "time": 184.07,
+            "text": "I'm lost but I don't know why"
+          },
+          {
+            "time": 186.94,
+            "text": "You're gone but you're on my mind"
+          },
+          {
+            "time": 189.88,
+            "text": "I'm lost but I don't know why"
+          },
+          {
+            "time": 192.8,
+            "text": "You're gone but you're on my mind"
+          },
+          {
+            "time": 195.68,
+            "text": "I'm lost but I don't know why"
+          },
+          {
+            "time": 198.56,
+            "text": "You're gone but you're on my mind"
+          },
+          {
+            "time": 201.49,
+            "text": "I'm lost but I don't know why"
+          },
+          {
+            "time": 204.41,
+            "text": "You're gone but you're on my mind"
+          },
+          {
+            "time": 207.28,
+            "text": "I'm lost but I don't know why"
+          },
+          {
+            "time": 210.23,
+            "text": "You're gone but you're on my mind"
+          },
+          {
+            "time": 213.09,
+            "text": "I'm lost but I don't know why"
+          },
+          {
+            "time": 216.01,
+            "text": "You're gone but you're on my mind"
+          },
+          {
+            "time": 219,
+            "text": "I'm lost but I don't know why"
+          }
+        ]
+      },
+      "metadataError": false,
+      "cover": "./metadata/52aed9cc1ee333b0512b07872207038f81db8eb8b937ff55c610798ee3ea43d7.jpg",
+      "metadataReady": true
+    },
+    {
+      "src": "./Glass%20Animals%20-%20Mama's%20Gun.mp3",
+      "title": "Mama's Gun",
+      "artist": "Glass Animals",
+      "album": "How To Be A Human Being",
+      "lyrics": {
+        "synchronized": true,
+        "lines": [
+          {
+            "time": 0,
+            "text": "作词 : Dave Bayley"
+          },
+          {
+            "time": 1,
+            "text": "作曲 : Dave Bayley"
+          },
+          {
+            "time": 21.62,
+            "text": "In the summer"
+          },
+          {
+            "time": 22.91,
+            "text": "Took my gun"
+          },
+          {
+            "time": 23.9,
+            "text": "And made him go to Neverland"
+          },
+          {
+            "time": 26.9,
+            "text": "He was something"
+          },
+          {
+            "time": 28.22,
+            "text": "My old husband"
+          },
+          {
+            "time": 29.58,
+            "text": "He was all you'd ever want"
+          },
+          {
+            "time": 32.64,
+            "text": "Did you say something"
+          },
+          {
+            "time": 35.58,
+            "text": "What'd you say?"
+          },
+          {
+            "time": 37.91,
+            "text": "Was that your voice or was that me?"
+          },
+          {
+            "time": 42.96,
+            "text": "Little voices buzzing poison"
+          },
+          {
+            "time": 45.55,
+            "text": "Backward noise from everything"
+          },
+          {
+            "time": 48.27,
+            "text": "Dr Swango"
+          },
+          {
+            "time": 49.56,
+            "text": "Says I'm psycho"
+          },
+          {
+            "time": 50.9,
+            "text": "Says they all from Neverland"
+          },
+          {
+            "time": 53.95,
+            "text": "They'll never ever let me be"
+          },
+          {
+            "time": 59.21,
+            "text": "Was that your voice or was that me?"
+          },
+          {
+            "time": 85.6,
+            "text": "Dirty Dustin"
+          },
+          {
+            "time": 86.88,
+            "text": "Said he saw him"
+          },
+          {
+            "time": 88.2,
+            "text": "Playing ball with Dizzy Jim"
+          },
+          {
+            "time": 90.92,
+            "text": "Dizzy Jim"
+          },
+          {
+            "time": 91.9,
+            "text": "Had never spoken"
+          },
+          {
+            "time": 93.56,
+            "text": "Whispered back \"You murdered him.\""
+          },
+          {
+            "time": 96.55,
+            "text": "My heart strings broke and it was me"
+          },
+          {
+            "time": 101.9,
+            "text": "I pull they stretch infinitely"
+          },
+          {
+            "time": 106.89,
+            "text": "In the summer silence"
+          },
+          {
+            "time": 109.54,
+            "text": "I was getting violent"
+          },
+          {
+            "time": 112.28,
+            "text": "In the summer silence"
+          },
+          {
+            "time": 114.92,
+            "text": "I was doing nothing"
+          },
+          {
+            "time": 117.62,
+            "text": "In the summer silence"
+          },
+          {
+            "time": 120.27,
+            "text": "I was getting violent"
+          },
+          {
+            "time": 122.99,
+            "text": "In the summer silence"
+          },
+          {
+            "time": 125.56,
+            "text": "I was doing nothing"
+          },
+          {
+            "time": 144.18,
+            "text": "Play with me my love"
+          },
+          {
+            "time": 149.55,
+            "text": "In the summer sun"
+          },
+          {
+            "time": 154.87,
+            "text": "I'll be waiting it"
+          },
+          {
+            "time": 159.91,
+            "text": "Your favorite Cheshire grin"
+          },
+          {
+            "time": 165.51,
+            "text": "Lay with me my dear"
+          },
+          {
+            "time": 170.9,
+            "text": "In the evening clear"
+          },
+          {
+            "time": 176.26,
+            "text": "I'll be dreaming in"
+          },
+          {
+            "time": 181.21,
+            "text": "My paper pale skin"
+          },
+          {
+            "time": 186.9,
+            "text": "In the summer silence"
+          },
+          {
+            "time": 189.59,
+            "text": "I was getting violent"
+          },
+          {
+            "time": 192.26,
+            "text": "In the summer silence"
+          },
+          {
+            "time": 194.98,
+            "text": "I was doing nothing"
+          },
+          {
+            "time": 197.57,
+            "text": "In the summer silence"
+          },
+          {
+            "time": 200.27,
+            "text": "I was getting violent"
+          },
+          {
+            "time": 203.5,
+            "text": "In the summer silence"
+          },
+          {
+            "time": 205.56,
+            "text": "I was doing nothing"
+          },
+          {
+            "time": 208.22,
+            "text": "In the summer silence"
+          },
+          {
+            "time": 210.89,
+            "text": "I was getting violent"
+          },
+          {
+            "time": 213.52,
+            "text": "In the summer silence"
+          },
+          {
+            "time": 216.17,
+            "text": "I was doing nothing"
+          },
+          {
+            "time": 218.87,
+            "text": "In the summer silence"
+          },
+          {
+            "time": 221.54,
+            "text": "I was getting violent"
+          },
+          {
+            "time": 224.21,
+            "text": "In the summer silence"
+          },
+          {
+            "time": 226.86,
+            "text": "I was doing nothing"
+          },
+          {
+            "time": 232.23,
+            "text": "In the summer silence"
+          },
+          {
+            "time": 237.55,
+            "text": "In the summer silence"
+          },
+          {
+            "time": 242.92,
+            "text": "In the summer silence"
+          },
+          {
+            "time": 248.25,
+            "text": "I was doing nothing"
+          }
+        ]
+      },
+      "metadataError": false,
+      "cover": "./metadata/52aed9cc1ee333b0512b07872207038f81db8eb8b937ff55c610798ee3ea43d7.jpg",
+      "metadataReady": true
+    },
+    {
+      "src": "./Kanye%20West%20-%20Come%20to%20Life.mp3",
+      "title": "Come to Life",
+      "artist": "Kanye West",
+      "album": "Donda",
+      "lyrics": {
+        "synchronized": true,
+        "lines": [
+          {
+            "time": 0,
+            "text": "作词 : Kanye West/Billy Walsh/Mark Williams/Warryn Campbell/Jeff Bhasker/Raul Cubina"
+          },
+          {
+            "time": 0.289,
+            "text": "作曲 : Kanye West/Billy Walsh/Mark Williams/Warryn Campbell/Jeff Bhasker/Raul Cubina"
+          },
+          {
+            "time": 0.578,
+            "text": "My soul cries out Hallelujah and I thank God for saving me"
+          },
+          {
+            "time": 6.14,
+            "text": "I, I thank God"
+          },
+          {
+            "time": 7.167,
+            "text": ""
+          },
+          {
+            "time": 8.038,
+            "text": "Here go all your problems again (I thank God)"
+          },
+          {
+            "time": 11.738,
+            "text": "Three, two, one, you're pinned (I thank God)"
+          },
+          {
+            "time": 15.122,
+            "text": "Uncle now he back in the pen'"
+          },
+          {
+            "time": 18.969,
+            "text": "Auntie shut down again"
+          },
+          {
+            "time": 23.219,
+            "text": "Did she finally come to life?"
+          },
+          {
+            "time": 26.592,
+            "text": "Ever wish you had another life?"
+          },
+          {
+            "time": 30.607,
+            "text": "Ever wish you had another life?"
+          },
+          {
+            "time": 33.901,
+            "text": "Ever wish you had another life?"
+          },
+          {
+            "time": 35.494,
+            "text": ""
+          },
+          {
+            "time": 36.226,
+            "text": "Don't you wish the night would go numb?"
+          },
+          {
+            "time": 38.187,
+            "text": "I've been feelin' low for so long"
+          },
+          {
+            "time": 40.03,
+            "text": "I ain't had a high in so long"
+          },
+          {
+            "time": 42.012,
+            "text": "I been in the dark for so long"
+          },
+          {
+            "time": 43.872,
+            "text": "Night is always darkest 'fore the dawn"
+          },
+          {
+            "time": 45.905,
+            "text": "Gotta make my mark 'fore I'm gone"
+          },
+          {
+            "time": 47.864,
+            "text": "I don't wanna die alone"
+          },
+          {
+            "time": 49.637,
+            "text": "I don't wanna die alone"
+          },
+          {
+            "time": 51.354,
+            "text": "I get mad when she gone"
+          },
+          {
+            "time": 53.907,
+            "text": "Mad when she home"
+          },
+          {
+            "time": 55.547,
+            "text": "Sad when she gone"
+          },
+          {
+            "time": 57.04,
+            "text": "Mad when she home (Lost it right now, the spirit that wants to run)"
+          },
+          {
+            "time": 58.319,
+            "text": "Sad when she gone"
+          },
+          {
+            "time": 62.685,
+            "text": "Floatin' on a silver lining (In the name of Jesus)"
+          },
+          {
+            "time": 65.969,
+            "text": "Yeah, you know where to find me, ridin' on a silver lining"
+          },
+          {
+            "time": 70.267,
+            "text": "And my God won't deny me, tell the Devil, \"Get behind me\""
+          },
+          {
+            "time": 73.638,
+            "text": "All the stars are aligned, lift me up every time"
+          },
+          {
+            "time": 77.344,
+            "text": "You know exactly where to find me"
+          },
+          {
+            "time": 79.799,
+            "text": "(Hallelujah, thank you Jesus, hallelujah, hallelujah)"
+          },
+          {
+            "time": 90.064,
+            "text": "Did those ideas ever really come to life?"
+          },
+          {
+            "time": 94.61,
+            "text": "Make it all come to life"
+          },
+          {
+            "time": 98.574,
+            "text": "Make it all come to life"
+          },
+          {
+            "time": 102.281,
+            "text": "Prayin' for a change in your life"
+          },
+          {
+            "time": 106.154,
+            "text": "Well, maybe it's gon' come tonight"
+          },
+          {
+            "time": 107.381,
+            "text": ""
+          },
+          {
+            "time": 109.756,
+            "text": "Sadness settin' in again"
+          },
+          {
+            "time": 113.722,
+            "text": "Three, two, one, you're pinned"
+          },
+          {
+            "time": 117.462,
+            "text": "Uncle right back in the pen'"
+          },
+          {
+            "time": 121.386,
+            "text": "Tell me how auntie been"
+          },
+          {
+            "time": 124.866,
+            "text": "Took your thoughts and penciled 'em in"
+          },
+          {
+            "time": 128.49,
+            "text": "Should've wrote 'em down in pen"
+          },
+          {
+            "time": 132.383,
+            "text": "And maybe they'll come to life"
+          },
+          {
+            "time": 140.022,
+            "text": "And maybe they'll come to life"
+          },
+          {
+            "time": 147.662,
+            "text": "Sadness settin' in again"
+          },
+          {
+            "time": 151.383,
+            "text": "Three, two, one, you're pinned"
+          },
+          {
+            "time": 155.343,
+            "text": "Uncle right back to the pen'"
+          },
+          {
+            "time": 159.138,
+            "text": "Tell me how auntie been"
+          },
+          {
+            "time": 162.838,
+            "text": "Thoughts, you had penciled 'em in"
+          },
+          {
+            "time": 166.592,
+            "text": "Probably should've wrote 'em in pen"
+          },
+          {
+            "time": 170.3,
+            "text": "And maybe they'll come to life"
+          },
+          {
+            "time": 174.148,
+            "text": "They could finally come to life"
+          },
+          {
+            "time": 177.797,
+            "text": "They could finally come to life"
+          },
+          {
+            "time": 179.189,
+            "text": ""
+          },
+          {
+            "time": 202.915,
+            "text": "You know where to find me, they cannot define me"
+          },
+          {
+            "time": 206.702,
+            "text": "So they crucify me, how so fazed when I leave?"
+          },
+          {
+            "time": 210.552,
+            "text": "Come and purify me, come and sanctify me"
+          },
+          {
+            "time": 214.229,
+            "text": "You the air that I breathe, the ultra-ultralight beam"
+          },
+          {
+            "time": 218.082,
+            "text": "Bought a gift to Northie, all she want was Nikes"
+          },
+          {
+            "time": 221.817,
+            "text": "This is not about me, God is still alive, so I'm free"
+          },
+          {
+            "time": 228.968,
+            "text": "Floatin' on a silver lining, floatin' on a silver lining"
+          },
+          {
+            "time": 235.182,
+            "text": "So when I'm free, I'm free"
+          }
+        ]
+      },
+      "metadataError": false,
+      "cover": "./metadata/8efb19319480ae41c1629403815faa41b036107db2db516db2d9c519de0bf84f.jpg",
+      "metadataReady": true
+    },
+    {
+      "src": "./Post%20Malone%2C%20Swae%20Lee%20-%20Sunflower.mp3",
+      "title": "Sunflower",
+      "artist": "Post Malone, Swae Lee",
+      "album": "Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)",
+      "lyrics": {
+        "synchronized": true,
+        "lines": [
+          {
+            "time": 0,
+            "text": "作词 : Post Malone/Swae Lee/Carter Lang/Carl Rosen/Billy Walsh/Louis Bell"
+          },
+          {
+            "time": 1,
+            "text": "作曲 : Post Malone/Swae Lee/Louis Bell/Billy Walsh/Carl Rosen/Carter Lang"
+          },
+          {
+            "time": 2.29,
+            "text": "Ayy, ayy, ayy, ayy (ooh)"
+          },
+          {
+            "time": 9.49,
+            "text": "Ooh, ooh, ooh, ohh (ooh)"
+          },
+          {
+            "time": 15.61,
+            "text": "Ayy, ayy"
+          },
+          {
+            "time": 19.4,
+            "text": "Ooh, ooh, ooh, ohh"
+          },
+          {
+            "time": 27.08,
+            "text": "Needless to say, I keep a check"
+          },
+          {
+            "time": 29.5,
+            "text": "She was all bad-bad, nevertheless (yeah)"
+          },
+          {
+            "time": 32.2,
+            "text": "Callin' it quits now, baby, I'm a wreck (wreck)"
+          },
+          {
+            "time": 34.83,
+            "text": "Crash at my place, baby, you're a wreck (wreck)"
+          },
+          {
+            "time": 37.54,
+            "text": "Needless to say, I'm keepin' a check"
+          },
+          {
+            "time": 40.1,
+            "text": "She was all bad-bad, nevertheless"
+          },
+          {
+            "time": 42.85,
+            "text": "Callin' it quits now, baby, I'm a wreck"
+          },
+          {
+            "time": 45.41,
+            "text": "Crash at my place, baby, you're a wreck"
+          },
+          {
+            "time": 48.16,
+            "text": "Thinkin' in a bad way, losin' your grip"
+          },
+          {
+            "time": 50.82,
+            "text": "Screamin' at my face, baby don't trip"
+          },
+          {
+            "time": 53.44,
+            "text": "Someone took a big L, don't know how that felt"
+          },
+          {
+            "time": 56.09,
+            "text": "Lookin' at you sideways, party on tilt"
+          },
+          {
+            "time": 58.72,
+            "text": "Ooh-ooh, some things you just can't refuse"
+          },
+          {
+            "time": 63.87,
+            "text": "She wanna ride me like a cruise"
+          },
+          {
+            "time": 66.45,
+            "text": "And I'm not tryna lose"
+          },
+          {
+            "time": 70.34,
+            "text": "Then you're left in the dust"
+          },
+          {
+            "time": 72.95,
+            "text": "Unless I stuck by ya"
+          },
+          {
+            "time": 75.63,
+            "text": "You're a sunflower"
+          },
+          {
+            "time": 78.26,
+            "text": "I think your love would be too much"
+          },
+          {
+            "time": 81.06,
+            "text": "Or you'll be left in the dust"
+          },
+          {
+            "time": 83.88,
+            "text": "Unless I stuck by ya"
+          },
+          {
+            "time": 86.31,
+            "text": "You're the sunflower"
+          },
+          {
+            "time": 89,
+            "text": "You're the sunflower"
+          },
+          {
+            "time": 91.4,
+            "text": "Every time I'm leavin' on you"
+          },
+          {
+            "time": 93.92,
+            "text": "You don't make it easy, no, no"
+          },
+          {
+            "time": 96.56,
+            "text": "Wish I could be there for you"
+          },
+          {
+            "time": 99.12,
+            "text": "Give me a reason to go"
+          },
+          {
+            "time": 102.28,
+            "text": "Every time I'm walkin' out"
+          },
+          {
+            "time": 104.19,
+            "text": "I can hear you tellin' me to turn around"
+          },
+          {
+            "time": 106.82,
+            "text": "Fightin' for my trust and you won't back down"
+          },
+          {
+            "time": 109.44,
+            "text": "Even if we gotta risk it all right now, oh"
+          },
+          {
+            "time": 112.75,
+            "text": "I know you're scared of the unknown (-known)"
+          },
+          {
+            "time": 115,
+            "text": "You don't wanna be alone (alone)"
+          },
+          {
+            "time": 117.78,
+            "text": "I know I always come and go (and go)"
+          },
+          {
+            "time": 120.24,
+            "text": "But it's out of my control"
+          },
+          {
+            "time": 123.54,
+            "text": "And you'll be left in the dust"
+          },
+          {
+            "time": 126.37,
+            "text": "Unless I stuck by ya"
+          },
+          {
+            "time": 129.01,
+            "text": "You're a sunflower"
+          },
+          {
+            "time": 131.78,
+            "text": "I think your love would be too much"
+          },
+          {
+            "time": 134.52,
+            "text": "Or you'll be left in the dust"
+          },
+          {
+            "time": 137.17,
+            "text": "Unless I stuck by ya"
+          },
+          {
+            "time": 139.7,
+            "text": "You're the sunflower"
+          },
+          {
+            "time": 142.56,
+            "text": "You're the sunflower"
+          },
+          {
+            "time": 144.66,
+            "text": "Yeah"
+          }
+        ]
+      },
+      "metadataError": false,
+      "cover": "./metadata/89e8e2126e852954397ae714b3e94008a187a92d5469fc69234ecdee68fdb44e.jpg",
+      "metadataReady": true
+    },
+    {
+      "src": "./RADWIMPS%20-%20%E3%83%87%E3%83%BC%E3%83%88.mp3",
+      "title": "デート",
+      "artist": "RADWIMPS",
+      "album": "君の名は。",
+      "lyrics": {
+        "synchronized": false,
+        "lines": []
+      },
+      "metadataError": false,
+      "cover": "./metadata/45bf1d350d1da793c0ff92e308911800ff5b403b4e0e0ddba27996957d6784b4.jpg",
+      "metadataReady": true
+    },
+    {
+      "src": "./RADWIMPS%20-%20%E3%81%AA%E3%82%93%E3%81%A7%E3%82%82%E3%81%AA%E3%81%84%E3%82%84%20(movie%20ver.).mp3",
+      "title": "なんでもないや (movie ver.)",
+      "artist": "RADWIMPS",
+      "album": "君の名は。",
+      "lyrics": {
+        "synchronized": true,
+        "lines": [
+          {
+            "time": 0,
+            "text": "编曲 : 野田洋次郎"
+          },
+          {
+            "time": 0.1,
+            "text": "作词 : 野田洋次郎"
+          },
+          {
+            "time": 0.2,
+            "text": "作曲 : 野田洋次郎"
+          },
+          {
+            "time": 0.3,
+            "text": "二人の間 通り過ぎた風は"
+          },
+          {
+            "time": 5.62,
+            "text": "どこから寂しさを運んできたの"
+          },
+          {
+            "time": 11.44,
+            "text": "泣いたりしたそのあとの空は"
+          },
+          {
+            "time": 17.27,
+            "text": "やけに透き通っていたりしたんだ"
+          },
+          {
+            "time": 34.89,
+            "text": "いつもは尖ってた父の言葉が"
+          },
+          {
+            "time": 40.15,
+            "text": "今日は暖かく感じました"
+          },
+          {
+            "time": 46.03,
+            "text": "優しさも笑顔も夢の語り方も"
+          },
+          {
+            "time": 51.48,
+            "text": "知らなくて全部 君を真似たよ"
+          },
+          {
+            "time": 57.47,
+            "text": "もう少しだけでいい あと少しだけでいい"
+          },
+          {
+            "time": 62.76,
+            "text": "もう少しだけでいいから"
+          },
+          {
+            "time": 68.72,
+            "text": "もう少しだけでいい あと少しだけでいい"
+          },
+          {
+            "time": 74.25,
+            "text": "もう少しだけ くっついていようか"
+          },
+          {
+            "time": 83.29,
+            "text": "僕らタイムフライヤー 時を駆け上がるクライマー"
+          },
+          {
+            "time": 88.84,
+            "text": "時のかくれんぼ はぐれっこはもういやなんだ"
+          },
+          {
+            "time": 94.99,
+            "text": "嬉しくて泣くのは 悲しくて笑うのは"
+          },
+          {
+            "time": 99.53,
+            "text": "君の心が 君を追い越したんだよ"
+          },
+          {
+            "time": 125.68,
+            "text": "星にまで願って 手にいれたオモチャも"
+          },
+          {
+            "time": 131.52,
+            "text": "部屋の隅っこに今 転がってる"
+          },
+          {
+            "time": 137.14,
+            "text": "叶えたい夢も 今日で100個できたよ"
+          },
+          {
+            "time": 142.82,
+            "text": "たった一つといつか 交換こしょう"
+          },
+          {
+            "time": 154.65,
+            "text": "いつもは喋らないあの子に今日は"
+          },
+          {
+            "time": 160,
+            "text": "放課後「また明日」と声をかけた"
+          },
+          {
+            "time": 165.81,
+            "text": "慣れないこともたまにならいいね"
+          },
+          {
+            "time": 171.23,
+            "text": "特にあなたが 隣にいたら"
+          },
+          {
+            "time": 177.26,
+            "text": "もう少しだけでいい あと少しだけでいい"
+          },
+          {
+            "time": 182.88,
+            "text": "もう少しだけでいいから"
+          },
+          {
+            "time": 188.8,
+            "text": "もう少しだけでいい あと少しだけでいい"
+          },
+          {
+            "time": 194.14,
+            "text": "もう少しだけくっついていようよ"
+          },
+          {
+            "time": 203.21,
+            "text": "僕らタイムフライヤー 君を知っていたんだ"
+          },
+          {
+            "time": 208.7,
+            "text": "僕が 僕の名前を 覚えるよりずっと前に"
+          },
+          {
+            "time": 219.72,
+            "text": "君のいない 世界にも 何かの意味はきっとあって"
+          },
+          {
+            "time": 226.45,
+            "text": "でも君のいない 世界など 夏休みのない 八月のよう"
+          },
+          {
+            "time": 232.49,
+            "text": "君のいない 世界など 笑うことない サンタのよう"
+          },
+          {
+            "time": 238.29,
+            "text": "君のいない 世界など"
+          },
+          {
+            "time": 268.73,
+            "text": ""
+          },
+          {
+            "time": 272.19,
+            "text": "僕らタイムフライヤー 時を駆け上がるクライマー"
+          },
+          {
+            "time": 277.46,
+            "text": "時のかくれんぼ はぐれっこはもういやなんだ"
+          },
+          {
+            "time": 283.62,
+            "text": "なんでもないや やっぱりなんでもないや"
+          },
+          {
+            "time": 288.6,
+            "text": "今から行くよ"
+          },
+          {
+            "time": 291.58,
+            "text": "僕らタイムフライヤー 時を駆け上がるクライマー"
+          },
+          {
+            "time": 297.95,
+            "text": "時のかくれんぼ はぐれっこ はもういいよ"
+          },
+          {
+            "time": 304.89,
+            "text": "君は派手なクライヤー その涙 止めてみたいな"
+          },
+          {
+            "time": 309.57,
+            "text": "だけど 君は拒んだ 零れるままの涙を見てわかった"
+          },
+          {
+            "time": 315.89,
+            "text": "嬉しくて泣くのは 悲しくて 笑うのは"
+          },
+          {
+            "time": 320.55,
+            "text": "僕の心が 僕を追い越したんだよ"
+          }
+        ]
+      },
+      "metadataError": false,
+      "cover": "./metadata/45bf1d350d1da793c0ff92e308911800ff5b403b4e0e0ddba27996957d6784b4.jpg",
+      "metadataReady": true
+    },
+    {
+      "src": "./The%20Weeknd%20-%20Die%20For%20You.mp3",
+      "title": "Die For You",
+      "artist": "The Weeknd",
+      "album": "Starboy",
+      "lyrics": {
+        "synchronized": true,
+        "lines": [
+          {
+            "time": 0,
+            "text": "作词 : Henry Walter/Martin McKinney/Dylan Wiggins/Abel Tesfaye/Mejdi Rhars/Magnus Hoiberg/William Walsh"
+          },
+          {
+            "time": 1,
+            "text": "作曲 : Henry Walter/Martin McKinney/Dylan Wiggins/Abel Tesfaye/Mejdi Rhars/Magnus Hoiberg/William Walsh"
+          },
+          {
+            "time": 28.82,
+            "text": "I'm findin' ways to articulate"
+          },
+          {
+            "time": 31.66,
+            "text": "The feeling I'm goin' through"
+          },
+          {
+            "time": 33.37,
+            "text": "I just can't say I don't love you"
+          },
+          {
+            "time": 38.68,
+            "text": "'Cause I love you, yeah"
+          },
+          {
+            "time": 43.28,
+            "text": "It's hard for me to communicate the thoughts that I hold"
+          },
+          {
+            "time": 46.84,
+            "text": "But tonight I'm gon' let you know"
+          },
+          {
+            "time": 49.55,
+            "text": "Let me tell the truth"
+          },
+          {
+            "time": 51.96,
+            "text": "Baby let me tell the truth, yeah"
+          },
+          {
+            "time": 56.34,
+            "text": ""
+          },
+          {
+            "time": 56.66,
+            "text": "You know what I'm thinkin'"
+          },
+          {
+            "time": 58.68,
+            "text": "See it in your eyes"
+          },
+          {
+            "time": 60.3,
+            "text": "You hate that you want me"
+          },
+          {
+            "time": 62.25,
+            "text": "Hate it when you cry"
+          },
+          {
+            "time": 64.08,
+            "text": "You're scared to be lonely"
+          },
+          {
+            "time": 65.74,
+            "text": "'Specially in the night"
+          },
+          {
+            "time": 67.55,
+            "text": "I'm scared that I'll miss you"
+          },
+          {
+            "time": 69.5,
+            "text": "Happens every time"
+          },
+          {
+            "time": 71.13,
+            "text": "I don't want this feelin'"
+          },
+          {
+            "time": 72.84,
+            "text": "I can't afford love"
+          },
+          {
+            "time": 74.67,
+            "text": "I try to find a reason to pull us apart"
+          },
+          {
+            "time": 78.29,
+            "text": "It ain't workin' 'cause you're perfect"
+          },
+          {
+            "time": 80.05,
+            "text": "And I know that you're worth it"
+          },
+          {
+            "time": 81.77,
+            "text": "I can't walk away, oh!"
+          },
+          {
+            "time": 85,
+            "text": ""
+          },
+          {
+            "time": 85.84,
+            "text": "Even though we're going through it"
+          },
+          {
+            "time": 89.26,
+            "text": "And it makes you feel alone"
+          },
+          {
+            "time": 91.69,
+            "text": "Just know that I would die for you"
+          },
+          {
+            "time": 95.4,
+            "text": "Baby I would die for you, yeah"
+          },
+          {
+            "time": 99.83,
+            "text": "The distance and the time between us"
+          },
+          {
+            "time": 103.43,
+            "text": "It'll never change my mind, cause baby"
+          },
+          {
+            "time": 107.02,
+            "text": "I would die for you"
+          },
+          {
+            "time": 109.94,
+            "text": "Baby I would die for you, yeah"
+          },
+          {
+            "time": 113.65,
+            "text": ""
+          },
+          {
+            "time": 114.56,
+            "text": "I'm finding ways to manipulate the feelin' you're goin' through"
+          },
+          {
+            "time": 119.34,
+            "text": "But baby girl, I'm not blamin' you"
+          },
+          {
+            "time": 124.44,
+            "text": "Just don't blame me too, yeah"
+          },
+          {
+            "time": 128.99,
+            "text": "'Cause I can't take this pain forever"
+          },
+          {
+            "time": 132.48,
+            "text": "And you won't find no one that's better"
+          },
+          {
+            "time": 135.65,
+            "text": "'Cause I'm right for you, babe"
+          },
+          {
+            "time": 138.68,
+            "text": "I think I'm right for you, babe"
+          },
+          {
+            "time": 142.18,
+            "text": ""
+          },
+          {
+            "time": 142.73,
+            "text": "You know what I'm thinkin'"
+          },
+          {
+            "time": 144.54,
+            "text": "See it in your eyes"
+          },
+          {
+            "time": 146.27,
+            "text": "You hate that you want me"
+          },
+          {
+            "time": 148.07,
+            "text": "Hate it when you cry"
+          },
+          {
+            "time": 149.86,
+            "text": "It ain't workin' 'cause you're perfect"
+          },
+          {
+            "time": 151.58,
+            "text": "And I know that you're worth it"
+          },
+          {
+            "time": 153.45,
+            "text": "I can't walk away, oh!"
+          },
+          {
+            "time": 156.86,
+            "text": ""
+          },
+          {
+            "time": 157.36,
+            "text": "Even though we're going through it"
+          },
+          {
+            "time": 160.87,
+            "text": "And it makes you feel alone"
+          },
+          {
+            "time": 163.1,
+            "text": "Just know that I would die for you"
+          },
+          {
+            "time": 166.92,
+            "text": "Baby I would die for you, yeah"
+          },
+          {
+            "time": 171.43,
+            "text": "The distance and the time between us"
+          },
+          {
+            "time": 174.96,
+            "text": "It'll never change my mind, cause baby"
+          },
+          {
+            "time": 178.24,
+            "text": "I would die for you"
+          },
+          {
+            "time": 181.49,
+            "text": "Baby I would die for you, yeah"
+          },
+          {
+            "time": 185.63,
+            "text": ""
+          },
+          {
+            "time": 185.88,
+            "text": "I would die for you"
+          },
+          {
+            "time": 187.55,
+            "text": "I would lie for you"
+          },
+          {
+            "time": 189.27,
+            "text": "Keep it real with you"
+          },
+          {
+            "time": 191.14,
+            "text": "I would kill for you, my baby"
+          },
+          {
+            "time": 196.61,
+            "text": "I'm just sayin', yeah"
+          },
+          {
+            "time": 200.28,
+            "text": "I would die for you"
+          },
+          {
+            "time": 202.02,
+            "text": "I would lie for you"
+          },
+          {
+            "time": 203.63,
+            "text": "Keep it real with you"
+          },
+          {
+            "time": 205.62,
+            "text": "I would kill for you, my baby"
+          },
+          {
+            "time": 210.06,
+            "text": "Na-na-na, na-na-na, na-na-na"
+          },
+          {
+            "time": 215.09,
+            "text": ""
+          },
+          {
+            "time": 215.41,
+            "text": "Even though we're going through it"
+          },
+          {
+            "time": 218.07,
+            "text": "And it makes you feel alone"
+          },
+          {
+            "time": 220.43,
+            "text": "Just know that I would die for you"
+          },
+          {
+            "time": 223.51,
+            "text": "Baby I would die for you, yeah"
+          },
+          {
+            "time": 228.74,
+            "text": "The distance and the time between us"
+          },
+          {
+            "time": 231.97,
+            "text": "It'll never change my mind, cause baby"
+          },
+          {
+            "time": 235.48,
+            "text": "I would die for you"
+          },
+          {
+            "time": 238.38,
+            "text": "Baby I would die for you, yeah babe"
+          },
+          {
+            "time": 244.23,
+            "text": "Die for you"
+          },
+          {
+            "time": 247.54,
+            "text": ""
+          }
+        ]
+      },
+      "metadataError": false,
+      "cover": "./metadata/acfad87578c6bcddaeede68f680fdb12ef14ef20d5c7282e98df62a17d96fc6d.jpg",
+      "metadataReady": true
+    },
+    {
+      "src": "./%E3%83%A8%E3%83%AB%E3%82%B7%E3%82%AB%20-%20%E5%85%AD%E6%9C%88%E3%81%AF%E9%9B%A8%E4%B8%8A%E3%81%8C%E3%82%8A%E3%81%AE%E8%A1%97%E3%82%92%E6%9B%B8%E3%81%8F.mp3",
+      "title": "六月は雨上がりの街を書く",
+      "artist": "ヨルシカ",
+      "album": "だから僕は音楽を辞めた",
+      "lyrics": {
+        "synchronized": true,
+        "lines": [
+          {
+            "time": 0,
+            "text": "作词 : n-buna"
+          },
+          {
+            "time": 1,
+            "text": "作曲 : n-buna"
+          },
+          {
+            "time": 24.87,
+            "text": "窓映る街の群青"
+          },
+          {
+            "time": 27.78,
+            "text": "雨樋を伝う五月雨"
+          },
+          {
+            "time": 30.79,
+            "text": "ぼうとしたまま見ている"
+          },
+          {
+            "time": 33.62,
+            "text": "雫一つ落ちる　落ちる"
+          },
+          {
+            "time": 36.87,
+            "text": "心の形は長方形"
+          },
+          {
+            "time": 39.63,
+            "text": "この紙の中だけに宿る"
+          },
+          {
+            "time": 42.58,
+            "text": "書き連ねた詩の表面"
+          },
+          {
+            "time": 45.32,
+            "text": "その上澄みにだけ君がいる"
+          },
+          {
+            "time": 51,
+            "text": "なんてくだらないよ"
+          },
+          {
+            "time": 53.33,
+            "text": "馬鹿馬鹿しいよ"
+          },
+          {
+            "time": 54.59,
+            "text": "理屈じゃないものが見たいんだよ"
+          },
+          {
+            "time": 57.87,
+            "text": "深い雨の匂い"
+          },
+          {
+            "time": 58,
+            "text": "きっと忘れるだけ損だから"
+          },
+          {
+            "time": 63.48,
+            "text": "口を動かして"
+          },
+          {
+            "time": 65.26,
+            "text": "指で擦って"
+          },
+          {
+            "time": 67.04,
+            "text": "言葉で縫い付けて"
+          },
+          {
+            "time": 70.44,
+            "text": "あの街で待ってて"
+          },
+          {
+            "time": 98.91,
+            "text": "雨音の踊る街灯"
+          },
+          {
+            "time": 102.42,
+            "text": "薄暮の先の曲がり角"
+          },
+          {
+            "time": 105.55,
+            "text": "一人、足音のパレード"
+          },
+          {
+            "time": 108.36,
+            "text": "夏を待つ雲の霞青"
+          },
+          {
+            "time": 111.55,
+            "text": "今の暮らしはi^2"
+          },
+          {
+            "time": 114.48,
+            "text": "君が引かれてる0の下"
+          },
+          {
+            "time": 116.62,
+            "text": "想い出の中でしか見えない"
+          },
+          {
+            "time": 120.02,
+            "text": "六月の雨上がりの中で"
+          },
+          {
+            "time": 123.45,
+            "text": "笑った顔だって書き殴って"
+          },
+          {
+            "time": 127.45,
+            "text": "胸を抉って"
+          },
+          {
+            "time": 129.71,
+            "text": "割り切れないのも知ってたんだろ"
+          },
+          {
+            "time": 132.72,
+            "text": "深い雨の匂いだって忘れるだけ損なのに"
+          },
+          {
+            "time": 138.58,
+            "text": "ただ僕の書いた手紙を読んだ"
+          },
+          {
+            "time": 141.04,
+            "text": "君のその顔が見たい"
+          },
+          {
+            "time": 145.49,
+            "text": "あの夏を書いてる"
+          },
+          {
+            "time": 162.49,
+            "text": "どうだっていい事ばかりだ"
+          },
+          {
+            "time": 169.02,
+            "text": "関わり合うのも億劫だ"
+          },
+          {
+            "time": 174.31,
+            "text": "言葉に出すのも面倒だ"
+          },
+          {
+            "time": 181.07,
+            "text": "結局君だけだったのか"
+          },
+          {
+            "time": 188.53,
+            "text": "だってくだらないよ"
+          },
+          {
+            "time": 191.24,
+            "text": "馬鹿馬鹿しいよ"
+          },
+          {
+            "time": 191.77,
+            "text": "理屈じゃないのも知ってたんだよ"
+          },
+          {
+            "time": 196.85,
+            "text": "深い雨の匂い"
+          },
+          {
+            "time": 197.69,
+            "text": "ずっと雨の街を書いている"
+          },
+          {
+            "time": 201.76,
+            "text": "心を動かして"
+          },
+          {
+            "time": 203.25,
+            "text": "胸を焦がして"
+          },
+          {
+            "time": 204.72,
+            "text": "このまま縫い付けて"
+          },
+          {
+            "time": 208.23,
+            "text": "あの街で待ってる"
+          }
+        ]
+      },
+      "metadataError": false,
+      "cover": "./metadata/09f0b289adecfa78f2bbf2afaf29521edee64a858f74f20deb15017dc96e80c2.jpg",
+      "metadataReady": true
+    }
+  ]
+}
