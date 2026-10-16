@@ -1,6 +1,7 @@
 import { filenameTitle, mergeMusicTracks, normalizeMusicMetadata, embeddedCover, metadataOptions } from './music-metadata.js';
 import { createLyricsView } from './music-lyrics.js';
 import { createDefaultMusic, introGainForSanity } from './music-defaults.js';
+import { readMusicLibrary } from './music-library-source.js';
 
 export function formatMusicTime(seconds) {
   if (!Number.isFinite(seconds) || seconds < 0) return '0:00';
@@ -182,16 +183,17 @@ export function initMusic(configured = [], defaults = {}) {
     const button = $('#music-refresh');
     button.disabled = true;
     try {
-      const response = await fetch('/api/music');
-      if (!response.ok) throw new Error('Library unavailable');
-      const library = (await response.json()).tracks;
+      const library = await readMusicLibrary({
+        apiUrl: location.hostname.endsWith('.github.io') ? null : new URL('/api/music', location.href),
+        manifestUrl: new URL('./assets/music/library.json', import.meta.url),
+      });
       const current = tracks[index]?.src;
       tracks = mergeMusicTracks(originals, library, localTracks, location.href);
       const next = tracks.findIndex(track => track.src === current);
       if (next >= 0) { index = next; revision++; syncControls(); void showMetadata(tracks[index], revision); }
       else load(0);
       if (manual) importStatus.textContent = `已扫描音乐文件夹，共 ${library.length} 首。`;
-    } catch { importStatus.textContent = '暂时无法读取音乐文件夹，仍可添加 MP3 试听。'; }
+    } catch { importStatus.textContent = '暂时无法读取音乐列表，请检查发布文件；仍可添加 MP3 试听。'; }
     finally { button.disabled = false; libraryReady = true; syncControls(); syncPlayback(); defaultMusic.flush(); }
   }
 
