@@ -1,0 +1,1176 @@
+{
+  "home": {
+    "title": "玻利瓦尔肤层",
+    "slide": 4,
+    "width": 1280,
+    "height": 720,
+    "layers": [
+      {
+        "src": "/assets/chapters/home-00.png",
+        "matrix": [
+          1280.0001,
+          0.0,
+          0.0,
+          720.0,
+          -0.0001,
+          0.0
+        ],
+        "opacity": 1,
+        "source": "ppt/media/image9.png",
+        "id": "44"
+      },
+      {
+        "src": "/assets/chapters/home-01.png",
+        "matrix": [
+          462.139,
+          0.0,
+          0.0,
+          180.54898,
+          676.48336,
+          163.24577
+        ],
+        "opacity": 1,
+        "source": "ppt/media/image19.png",
+        "id": "15"
+      },
+      {
+        "src": "/assets/chapters/home-02.png",
+        "matrix": [
+          142.17732,
+          0.0,
+          0.0,
+          233.23223,
+          320.83066,
+          12.8001
+        ],
+        "opacity": 1,
+        "source": "ppt/media/image10.png",
+        "id": "36"
+      },
+      {
+        "src": "/assets/chapters/home-03.png",
+        "matrix": [
+          164.05071,
+          0.0,
+          0.0,
+          154.32913,
+          319.60987,
+          244.67906
+        ],
+        "opacity": 1,
+        "source": "ppt/media/image10.png",
+        "id": "46"
+      },
+      {
+        "src": "/assets/chapters/home-04.png",
+        "matrix": [
+          174.39202,
+          0.0,
+          0.0,
+          136.0,
+          320.83066,
+          415.32136
+        ],
+        "opacity": 1,
+        "source": "ppt/media/image10.png",
+        "id": "48"
+      },
+      {
+        "src": "/assets/chapters/home-05.png",
+        "matrix": [
+          147.2,
+          0.0,
+          0.0,
+          233.23234,
+          483.61879,
+          12.8
+        ],
+        "opacity": 1,
+        "source": "ppt/media/image10.png",
+        "id": "50"
+      },
+      {
+        "src": "/assets/chapters/home-06.png",
+        "matrix": [
+          174.39202,
+          0.0,
+          0.0,
+          150.4,
+          495.37302,
+          246.64357
+        ],
+        "opacity": 1,
+        "source": "ppt/media/image10.png",
+        "id": "52"
+      },
+      {
+        "src": "/assets/chapters/home-07.png",
+        "matrix": [
+          120.0,
+          0.0,
+          0.0,
+          185.6001,
+          651.42961,
+          36.61617
+        ],
+        "opacity": 1,
+        "source": "ppt/media/image10.png",
+        "id": "54"
+      },
+      {
+        "src": "/assets/chapters/home-08.png",
+        "matrix": [
+          166.4,
+          0.0,
+          0.0,
+          161.6,
+          658.47244,
+          402.52136
+        ],
+        "opacity": 1,
+        "source": "ppt/media/image10.png",
+        "id": "56"
+      },
+      {
+        "src": "/assets/chapters/home-09.png",
+        "matrix": [
+          171.2,
+          0.0,
+          0.0,
+          148.70898,
+          789.19003,
+          247.48913
+        ],
+        "opacity": 1,
+        "source": "ppt/media/image10.png",
+        "id": "58"
+      },
+      {
+        "src": "/assets/chapters/home-10.png",
+        "matrix": [
+          83.2,
+          0.0,
+          0.0,
+          148.8,
+          838.49722,
+          408.92136
+        ],
+        "opacity": 1,
+        "source": "ppt/media/image10.png",
+        "id": "60"
+      },
+      {
+        "src": "/assets/chapters/home-11.png",
+        "matrix": [
+          136.0,
+          0.0,
+          0.0,
+          136.0,
+          508.84756,
+          415.32136
+        ],
+        "opacity": 1,
+        "source": "ppt/media/image11.png",
+        "id": "38"
+      },
+      {
+        "src": "/assets/chapters/home-12.png",
+        "matrix": [
+          96.0,
+          0.0,
+          0.0,
+          124.0,
+          681.47748,
+          259.84357
+        ],
+        "opacity": 1,
+        "source": "ppt/media/image12.png",
+        "id": "40"
+      },
+      {
+        "src": "/assets/chapters/home-13.png",
+        "matrix": [
+          139.0,
+          0.0,
+          0.0,
+          173.0,
+          792.04052,
+          42.91622
+        ],
+        "opacity": 1,
+        "source": "ppt/media/image13.png",
+        "id": "42"
+      },
+      {
+        "src": "/assets/chapters/home-14.png",
+        "matrix": [
+          272.0,
+          0.0,
+          0.0,
+          568.0,
+          1017.69522,
+          -68.08378
+        ],
+        "opacity": 1,
+        "source": "ppt/media/image14.png",
+        "id": "3"
+      },
+      {
+        "src": "/assets/chapters/home-15.png",
+        "matrix": [
+          124.95454,
+          0.0,
+          0.0,
+          95.00672,
+          1071.73879,
+          43.79759
+        ],
+        "opacity": 1,
+        "source": "ppt/media/image15.png",
+        "id": "9"
+      },
+      {
+        "src": "/assets/chapters/home-16.png",
+        "matrix": [
+          145.0,
+          0.0,
+          0.0,
+          141.0,
+          83.77512,
+          244.67906
+        ],
+        "opacity": 1,
+        "source": "ppt/media/image16.png",
+        "id": "5"
+      },
+      {
+        "src": "/assets/chapters/home-17.png",
+        "matrix": [
+          138.5031,
+          0.0,
+          0.0,
+          136.0,
+          88.56483,
+          247.9136
+        ],
+        "opacity": 1,
+        "source": "ppt/media/image17.png",
+        "id": "7"
+      },
+      {
+        "src": "/assets/chapters/home-18.png",
+        "matrix": [
+          156.0,
+          0.0,
+          0.0,
+          128.0,
+          82.41533,
+          257.67906
+        ],
+        "opacity": 1,
+        "source": "ppt/media/image18.png",
+        "id": "11"
+      },
+      {
+        "src": "/assets/chapters/home-19.png",
+        "matrix": [
+          164.0,
+          0.0,
+          0.0,
+          -68.0,
+          362.61711,
+          650.39916
+        ],
+        "opacity": 1,
+        "source": "ppt/media/image20.png",
+        "id": "17"
+      },
+      {
+        "src": "/assets/chapters/home-20.png",
+        "matrix": [
+          -164.0,
+          0.0,
+          0.0,
+          68.0,
+          920.49722,
+          582.39916
+        ],
+        "opacity": 1,
+        "source": "ppt/media/image20.png",
+        "id": "19"
+      }
+    ]
+  },
+  "fiction": {
+    "title": "甜美的伤口",
+    "slide": 9,
+    "width": 1280,
+    "height": 720,
+    "layers": [
+      {
+        "src": "/assets/chapters/fiction-00.png",
+        "matrix": [
+          1280.0,
+          0.0,
+          0.0,
+          720.0,
+          0.0,
+          0.0
+        ],
+        "opacity": 1,
+        "source": "ppt/media/image36.png",
+        "id": "3"
+      },
+      {
+        "src": "/assets/chapters/fiction-01.svg",
+        "matrix": [
+          495.67024,
+          0.0,
+          0.0,
+          495.67024,
+          862.61585,
+          137.75475
+        ],
+        "opacity": 1,
+        "source": "native vector",
+        "id": "53"
+      },
+      {
+        "src": "/assets/chapters/fiction-02.svg",
+        "matrix": [
+          168.43958,
+          0.0,
+          0.0,
+          167.69207,
+          83.89533,
+          299.53113
+        ],
+        "opacity": 1,
+        "source": "native vector",
+        "id": "55"
+      },
+      {
+        "src": "/assets/chapters/fiction-03.svg",
+        "matrix": [
+          959.19559,
+          0.0,
+          0.0,
+          720.0,
+          137.81449,
+          0.0
+        ],
+        "opacity": 1,
+        "source": "native vector",
+        "id": "35"
+      },
+      {
+        "src": "/assets/chapters/fiction-04.png",
+        "matrix": [
+          196.0,
+          0.0,
+          0.0,
+          280.0,
+          542.0,
+          69.77774
+        ],
+        "opacity": 1,
+        "source": "ppt/media/image38.png",
+        "id": "5"
+      },
+      {
+        "src": "/assets/chapters/fiction-05.png",
+        "matrix": [
+          277.78268,
+          0.0,
+          0.0,
+          155.12546,
+          -70.57774,
+          146.7706
+        ],
+        "opacity": 1,
+        "source": "ppt/media/image37.png",
+        "id": "7"
+      },
+      {
+        "src": "/assets/chapters/fiction-06.png",
+        "matrix": [
+          314.09533,
+          0.0,
+          0.0,
+          126.69375,
+          266.86656,
+          138.12546
+        ],
+        "opacity": 1,
+        "source": "ppt/media/image39.png",
+        "id": "9"
+      },
+      {
+        "src": "/assets/chapters/fiction-07.png",
+        "matrix": [
+          296.2463,
+          0.0,
+          0.0,
+          124.73533,
+          661.32336,
+          106.74352
+        ],
+        "opacity": 1,
+        "source": "ppt/media/image40.png",
+        "id": "11"
+      },
+      {
+        "src": "/assets/chapters/fiction-08.png",
+        "matrix": [
+          248.69585,
+          0.0,
+          0.0,
+          138.8821,
+          1090.96577,
+          92.54068
+        ],
+        "opacity": 1,
+        "source": "ppt/media/image41.png",
+        "id": "13"
+      },
+      {
+        "src": "/assets/chapters/fiction-09.svg",
+        "matrix": [
+          959.1957,
+          0.0,
+          0.0,
+          245.60651,
+          160.40189,
+          313.78782
+        ],
+        "opacity": 1,
+        "source": "native vector",
+        "id": "22"
+      },
+      {
+        "src": "/assets/chapters/fiction-10.png",
+        "matrix": [
+          120.79969,
+          0.0,
+          0.0,
+          149.76976,
+          267.82415,
+          267.24829
+        ],
+        "opacity": 1,
+        "source": "ppt/media/image42.png",
+        "id": "25"
+      },
+      {
+        "src": "/assets/chapters/fiction-11.png",
+        "matrix": [
+          215.30373,
+          0.0,
+          0.0,
+          211.88598,
+          385.51801,
+          255.33722
+        ],
+        "opacity": 1,
+        "source": "ppt/media/image42.png",
+        "id": "27"
+      },
+      {
+        "src": "/assets/chapters/fiction-12.png",
+        "matrix": [
+          303.19444,
+          0.0,
+          0.0,
+          208.93543,
+          563.4252,
+          324.32472
+        ],
+        "opacity": 1,
+        "source": "ppt/media/image42.png",
+        "id": "29"
+      },
+      {
+        "src": "/assets/chapters/fiction-13.png",
+        "matrix": [
+          169.1957,
+          0.0,
+          0.0,
+          87.18142,
+          849.0211,
+          306.18698
+        ],
+        "opacity": 1,
+        "source": "ppt/media/image42.png",
+        "id": "31"
+      },
+      {
+        "src": "/assets/chapters/fiction-14.png",
+        "matrix": [
+          159.22268,
+          0.0,
+          0.0,
+          87.18142,
+          1008.36514,
+          253.16588
+        ],
+        "opacity": 1,
+        "source": "ppt/media/image42.png",
+        "id": "33"
+      },
+      {
+        "src": "/assets/chapters/fiction-15.png",
+        "matrix": [
+          5.43391,
+          0.0,
+          0.0,
+          720.0,
+          1030.38142,
+          -63.24336
+        ],
+        "opacity": 1,
+        "source": "ppt/media/image43.png",
+        "id": "4"
+      },
+      {
+        "src": "/assets/chapters/fiction-16.png",
+        "matrix": [
+          -4.7999,
+          0.0,
+          0.0,
+          371.37732,
+          123.38247,
+          188.01701
+        ],
+        "opacity": 1,
+        "source": "ppt/media/image44.png",
+        "id": "43"
+      },
+      {
+        "src": "/assets/chapters/fiction-17.png",
+        "matrix": [
+          -4.7999,
+          0.0,
+          0.0,
+          371.37732,
+          275.63381,
+          -78.2127
+        ],
+        "opacity": 1,
+        "source": "ppt/media/image44.png",
+        "id": "45"
+      },
+      {
+        "src": "/assets/chapters/fiction-18.png",
+        "matrix": [
+          164.0,
+          0.0,
+          0.0,
+          -68.0,
+          362.61711,
+          650.39916
+        ],
+        "opacity": 1,
+        "source": "ppt/media/image20.png",
+        "id": "46"
+      },
+      {
+        "src": "/assets/chapters/fiction-19.png",
+        "matrix": [
+          -164.0,
+          0.0,
+          0.0,
+          68.0,
+          920.49722,
+          582.39916
+        ],
+        "opacity": 1,
+        "source": "ppt/media/image20.png",
+        "id": "47"
+      },
+      {
+        "src": "/assets/chapters/fiction-20.svg",
+        "matrix": [
+          200.62394,
+          0.0,
+          0.0,
+          200.62394,
+          528.08504,
+          75.56798
+        ],
+        "opacity": 1,
+        "source": "native vector",
+        "id": "51"
+      }
+    ]
+  },
+  "science-fiction": {
+    "title": "血色空脉",
+    "slide": 14,
+    "width": 1280,
+    "height": 720,
+    "layers": [
+      {
+        "src": "/assets/chapters/science-fiction-00.png",
+        "matrix": [
+          1280.0,
+          0.0,
+          0.0,
+          720.0,
+          0.0,
+          0.0
+        ],
+        "opacity": 1,
+        "source": "ppt/media/image64.png",
+        "id": "3"
+      },
+      {
+        "src": "/assets/chapters/science-fiction-01.png",
+        "matrix": [
+          1127.77774,
+          0.0,
+          0.0,
+          679.7389,
+          76.11087,
+          0.0
+        ],
+        "opacity": 1,
+        "source": "ppt/media/image65.png",
+        "id": "26"
+      },
+      {
+        "src": "/assets/chapters/science-fiction-02.png",
+        "matrix": [
+          1280.0001,
+          0.0,
+          0.0,
+          601.51895,
+          -0.00021,
+          0.0
+        ],
+        "opacity": 1,
+        "source": "ppt/media/image66.png",
+        "id": "4"
+      },
+      {
+        "src": "/assets/chapters/science-fiction-03.png",
+        "matrix": [
+          600.38551,
+          0.0,
+          0.0,
+          618.09407,
+          383.70457,
+          0.0
+        ],
+        "opacity": 1,
+        "source": "ppt/media/image67.png",
+        "id": "6"
+      },
+      {
+        "src": "/assets/chapters/science-fiction-04.png",
+        "matrix": [
+          209.48567,
+          0.0,
+          0.0,
+          103.25365,
+          59.16315,
+          187.23307
+        ],
+        "opacity": 1,
+        "source": "ppt/media/image68.png",
+        "id": "28"
+      },
+      {
+        "src": "/assets/chapters/science-fiction-05.png",
+        "matrix": [
+          145.06667,
+          0.0,
+          0.0,
+          102.95055,
+          1010.13333,
+          40.2611
+        ],
+        "opacity": 1,
+        "source": "ppt/media/image69.png",
+        "id": "30"
+      },
+      {
+        "src": "/assets/chapters/science-fiction-06.png",
+        "matrix": [
+          164.0,
+          0.0,
+          0.0,
+          -68.0,
+          362.61711,
+          650.39916
+        ],
+        "opacity": 1,
+        "source": "ppt/media/image20.png",
+        "id": "31"
+      },
+      {
+        "src": "/assets/chapters/science-fiction-07.png",
+        "matrix": [
+          -164.0,
+          0.0,
+          0.0,
+          68.0,
+          920.49722,
+          582.39916
+        ],
+        "opacity": 1,
+        "source": "ppt/media/image20.png",
+        "id": "32"
+      }
+    ]
+  },
+  "arts": {
+    "title": "受害者腐殖",
+    "slide": 18,
+    "width": 1280,
+    "height": 720,
+    "layers": [
+      {
+        "src": "/assets/chapters/arts-00.png",
+        "matrix": [
+          1280.0,
+          0.0,
+          0.0,
+          720.0,
+          0.0,
+          0.0
+        ],
+        "opacity": 1,
+        "source": "ppt/media/image73.png",
+        "id": "3"
+      },
+      {
+        "src": "/assets/chapters/arts-01.svg",
+        "matrix": [
+          1116.44441,
+          0.0,
+          0.0,
+          -519.11108,
+          0.0,
+          519.11108
+        ],
+        "opacity": 1,
+        "source": "native vector",
+        "id": "18"
+      },
+      {
+        "src": "/assets/chapters/arts-02.svg",
+        "matrix": [
+          1280.0,
+          0.0,
+          0.0,
+          -223.11108,
+          0.0,
+          519.11108
+        ],
+        "opacity": 1,
+        "source": "native vector",
+        "id": "19"
+      },
+      {
+        "src": "/assets/chapters/arts-03.png",
+        "matrix": [
+          321.36661,
+          0.0,
+          0.0,
+          187.37312,
+          267.57932,
+          389.73228
+        ],
+        "opacity": 1,
+        "source": "ppt/media/image74.png",
+        "id": "7"
+      },
+      {
+        "src": "/assets/chapters/arts-04.png",
+        "matrix": [
+          548.77627,
+          0.0,
+          0.0,
+          577.10541,
+          441.44598,
+          142.89459
+        ],
+        "opacity": 1,
+        "source": "ppt/media/image75.png",
+        "id": "5"
+      },
+      {
+        "src": "/assets/chapters/arts-05.png",
+        "matrix": [
+          334.55013,
+          0.0,
+          0.0,
+          392.53879,
+          482.66257,
+          173.89995
+        ],
+        "opacity": 1,
+        "source": "ppt/media/image76.png",
+        "id": "9"
+      },
+      {
+        "src": "/assets/chapters/arts-06.png",
+        "matrix": [
+          177.0,
+          0.0,
+          0.0,
+          89.0,
+          112.77774,
+          342.44724
+        ],
+        "opacity": 1,
+        "source": "ppt/media/image77.png",
+        "id": "4"
+      },
+      {
+        "src": "/assets/chapters/arts-07.png",
+        "matrix": [
+          177.0,
+          0.0,
+          0.0,
+          89.0,
+          990.22226,
+          342.44724
+        ],
+        "opacity": 1,
+        "source": "ppt/media/image77.png",
+        "id": "8"
+      },
+      {
+        "src": "/assets/chapters/arts-08.png",
+        "matrix": [
+          128.0,
+          0.0,
+          0.0,
+          128.0,
+          564.6043,
+          219.78488
+        ],
+        "opacity": 1,
+        "source": "ppt/media/image78.png",
+        "id": "11"
+      },
+      {
+        "src": "/assets/chapters/arts-09.png",
+        "matrix": [
+          128.0,
+          0.0,
+          0.0,
+          128.0,
+          588.94593,
+          124.88598
+        ],
+        "opacity": 1,
+        "source": "ppt/media/image79.png",
+        "id": "13"
+      },
+      {
+        "src": "/assets/chapters/arts-10.png",
+        "matrix": [
+          128.0,
+          0.0,
+          0.0,
+          128.0,
+          613.44588,
+          278.44724
+        ],
+        "opacity": 1,
+        "source": "ppt/media/image80.png",
+        "id": "15"
+      },
+      {
+        "src": "/assets/chapters/arts-11.svg",
+        "matrix": [
+          215.10877,
+          0.0,
+          0.0,
+          214.15412,
+          311.30184,
+          211.20798
+        ],
+        "opacity": 1,
+        "source": "native vector",
+        "id": "21"
+      },
+      {
+        "src": "/assets/chapters/arts-12.png",
+        "matrix": [
+          84.63213,
+          0.0,
+          0.0,
+          84.63213,
+          385.95717,
+          220.38814
+        ],
+        "opacity": 1,
+        "source": "ppt/media/image81.png",
+        "id": "22"
+      },
+      {
+        "src": "/assets/chapters/arts-13.png",
+        "matrix": [
+          38.79712,
+          -20.75533,
+          20.75533,
+          38.79712,
+          353.88173,
+          365.09218
+        ],
+        "opacity": 1,
+        "source": "ppt/media/image82.png",
+        "id": "23"
+      },
+      {
+        "src": "/assets/chapters/arts-14.png",
+        "matrix": [
+          54.0,
+          0.0,
+          0.0,
+          119.0,
+          836.27381,
+          382.47528
+        ],
+        "opacity": 1,
+        "source": "ppt/media/image83.png",
+        "id": "24"
+      },
+      {
+        "src": "/assets/chapters/arts-15.png",
+        "matrix": [
+          60.0,
+          0.0,
+          0.0,
+          188.0,
+          836.05501,
+          111.08073
+        ],
+        "opacity": 1,
+        "source": "ppt/media/image84.png",
+        "id": "26"
+      },
+      {
+        "src": "/assets/chapters/arts-16.png",
+        "matrix": [
+          131.0,
+          0.0,
+          0.0,
+          131.0,
+          801.82709,
+          243.11307
+        ],
+        "opacity": 1,
+        "source": "ppt/media/image85.png",
+        "id": "27"
+      },
+      {
+        "src": "/assets/chapters/arts-17.png",
+        "matrix": [
+          164.0,
+          0.0,
+          0.0,
+          -68.0,
+          362.61711,
+          650.39916
+        ],
+        "opacity": 1,
+        "source": "ppt/media/image20.png",
+        "id": "28"
+      },
+      {
+        "src": "/assets/chapters/arts-18.png",
+        "matrix": [
+          -164.0,
+          0.0,
+          0.0,
+          68.0,
+          920.49722,
+          582.39916
+        ],
+        "opacity": 1,
+        "source": "ppt/media/image20.png",
+        "id": "29"
+      }
+    ]
+  },
+  "daily": {
+    "title": "卡德霍之颅",
+    "slide": 21,
+    "width": 1280,
+    "height": 720,
+    "layers": [
+      {
+        "src": "/assets/chapters/daily-00.png",
+        "matrix": [
+          1280.0,
+          0.0,
+          0.0,
+          720.0,
+          0.0,
+          0.0
+        ],
+        "opacity": 1,
+        "source": "ppt/media/image92.png",
+        "id": "3"
+      },
+      {
+        "src": "/assets/chapters/daily-01.png",
+        "matrix": [
+          205.55948,
+          0.0,
+          0.0,
+          259.65407,
+          469.83045,
+          83.79412
+        ],
+        "opacity": 1,
+        "source": "ppt/media/image100.png",
+        "id": "23"
+      },
+      {
+        "src": "/assets/chapters/daily-02.png",
+        "matrix": [
+          764.0,
+          0.0,
+          0.0,
+          400.0,
+          303.2,
+          160.0
+        ],
+        "opacity": 1,
+        "source": "ppt/media/image93.png",
+        "id": "11"
+      },
+      {
+        "src": "/assets/chapters/daily-03.png",
+        "matrix": [
+          752.0,
+          0.0,
+          0.0,
+          192.0,
+          315.2,
+          168.0
+        ],
+        "opacity": 1,
+        "source": "ppt/media/image94.png",
+        "id": "9"
+      },
+      {
+        "src": "/assets/chapters/daily-04.png",
+        "matrix": [
+          205.55948,
+          0.0,
+          0.0,
+          641.06667,
+          640.0,
+          78.93333
+        ],
+        "opacity": 1,
+        "source": "ppt/media/image95.png",
+        "id": "5"
+      },
+      {
+        "src": "/assets/chapters/daily-05.png",
+        "matrix": [
+          414.0,
+          0.0,
+          0.0,
+          321.0,
+          -1.44052,
+          207.49995
+        ],
+        "opacity": 1,
+        "source": "ppt/media/image96.png",
+        "id": "7"
+      },
+      {
+        "src": "/assets/chapters/daily-06.png",
+        "matrix": [
+          64.0,
+          0.0,
+          0.0,
+          280.0,
+          710.77974,
+          280.0
+        ],
+        "opacity": 1,
+        "source": "ppt/media/image101.png",
+        "id": "21"
+      },
+      {
+        "src": "/assets/chapters/daily-07.png",
+        "matrix": [
+          0.0,
+          123.42866,
+          96.0001,
+          -0.0,
+          569.22052,
+          441.67963
+        ],
+        "opacity": 1,
+        "source": "ppt/media/image97.png",
+        "id": "25"
+      },
+      {
+        "src": "/assets/chapters/daily-08.png",
+        "matrix": [
+          128.0,
+          0.0,
+          0.0,
+          63.0,
+          507.95444,
+          287.39675
+        ],
+        "opacity": 1,
+        "source": "ppt/media/image98.png",
+        "id": "27"
+      },
+      {
+        "src": "/assets/chapters/daily-09.png",
+        "matrix": [
+          132.0,
+          0.0,
+          0.0,
+          68.0,
+          507.27979,
+          283.17249
+        ],
+        "opacity": 0.0,
+        "source": "ppt/media/image99.png",
+        "id": "29"
+      },
+      {
+        "src": "/assets/chapters/daily-10.png",
+        "matrix": [
+          164.0,
+          0.0,
+          0.0,
+          -68.0,
+          362.61711,
+          650.39916
+        ],
+        "opacity": 1,
+        "source": "ppt/media/image20.png",
+        "id": "30"
+      },
+      {
+        "src": "/assets/chapters/daily-11.png",
+        "matrix": [
+          -164.0,
+          0.0,
+          0.0,
+          68.0,
+          920.49722,
+          582.39916
+        ],
+        "opacity": 1,
+        "source": "ppt/media/image20.png",
+        "id": "31"
+      }
+    ]
+  }
+}
