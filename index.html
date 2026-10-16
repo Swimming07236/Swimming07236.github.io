@@ -1,0 +1,120 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="theme-color" content="#000000">
+  <meta name="description" content="虚实疆界 — 故事、日常，以及声音、光影与色彩的回响。">
+  <title>虚实疆界 · Il confine tra reale e immaginario</title>
+  <link rel="icon" type="image/svg+xml" href="/assets/favicon.svg">
+  <link rel="preload" href="/assets/fonts/pixel-zh.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="preload" href="/assets/fonts/manuscript-zh.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="preload" href="/assets/fonts/voynich.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="stylesheet" href="/styles.css">
+  <link rel="stylesheet" href="/intro.css">
+  <link rel="stylesheet" href="/chapters.css">
+  <link rel="stylesheet" href="/manuscript.css">
+  <link rel="stylesheet" href="/music.css">
+  <link rel="stylesheet" href="/start-gate.css">
+</head>
+<body class="intro-active">
+  <section id="start-gate" class="start-gate" aria-labelledby="start-question">
+    <div class="start-gate-content">
+      <h1 id="start-question">是否开启生命跃迁？</h1>
+      <button id="start-journey" class="start-journey" type="button" aria-label="开启生命跃迁" aria-describedby="start-warning" disabled>
+        <svg class="start-seal" viewBox="0 0 200 200" aria-hidden="true">
+          <defs><path id="seal-code-orbit" d="M100 19a81 81 0 1 1-.01 0"/></defs>
+          <g class="seal-frame"><path d="M35 9H9v26m156-26h26v26M9 165v26h26m156-26v26h-26"/><path d="M73 5h54M73 195h54M5 73v54m190-54v54"/><circle cx="100" cy="100" r="91"/></g>
+          <g class="seal-orbit"><circle class="seal-ticks" cx="100" cy="100" r="87"/><path d="m100 5 4 7-4 7-4-7Zm0 176 4 7-4 7-4-7ZM5 100l7-4 7 4-7 4Zm176 0 7-4 7 4-7 4Z"/><text class="seal-code"><textPath href="#seal-code-orbit">010011 · 0x∅ · 110101 · 0x∅ · 001011 · 0x∅ · 101001 · 0x∅ ·</textPath></text></g>
+          <g class="seal-counter-orbit"><circle cx="100" cy="100" r="72" stroke-dasharray="72 9 3 9 28 9"/><path d="m100 26 52 22 22 52-22 52-52 22-52-22-22-52 22-52Z"/><circle cx="100" cy="26" r="2"/><circle cx="174" cy="100" r="2"/><circle cx="100" cy="174" r="2"/><circle cx="26" cy="100" r="2"/></g>
+          <g class="seal-circuit"><path d="M100 30v17l-14 14v13M100 30v17l14 14v13M36 69h16l15 15h9m88-15h-16l-15 15h-9M28 112h19l18-18h10m97 18h-19l-18-18h-10M42 137h17l18-25m81 25h-17l-18-25M67 157l13-17v-18m53 35-13-17v-18"/><path d="m49 45 15 9v14m87-23-15 9v14M35 151l13 3 8 11m109-14-13 3-8 11"/><circle cx="36" cy="69" r="2"/><circle cx="164" cy="69" r="2"/><circle cx="42" cy="137" r="2"/><circle cx="158" cy="137" r="2"/><path d="M96 29h8m-4-4v8M25 108h6v8h-6m141-8h6v8h-6"/></g>
+          <g class="seal-stream"><path d="M100 30v17l-14 14v13m14-44v17l14 14v13M36 69h16l15 15h9m88-15h-16l-15 15h-9M28 112h19l18-18h10m97 18h-19l-18-18h-10M42 137h17l18-25m81 25h-17l-18-25"/></g>
+          <g class="seal-eye"><path d="M65 89q35-35 70 0-35 35-70 0Zm5 0h60M100 56v66m-23-56 46 46m0-46-46 46"/><circle cx="100" cy="89" r="22"/><circle cx="100" cy="89" r="14"/><path d="m100 68 13 21-13 21-13-21Zm0 13 8 8-8 8-8-8Z"/><circle class="seal-pupil" cx="100" cy="89" r="3"/><path d="m100 44-4 6h8Zm-44 45 6-4v8Zm88 0-6-4v8Z"/></g>
+          <g class="seal-fragments"><text x="32" y="97">01</text><text x="156" y="97">10</text><text x="65" y="174">∅</text><text x="124" y="174">∅</text></g>
+        </svg>
+        <span class="start-journey-label">开始<span class="start-cursor" aria-hidden="true">_</span></span>
+      </button>
+      <p id="start-warning" class="start-warning">启动程序会产生声音，请保证设备处于恰当环境中</p>
+    </div>
+  </section>
+  <div id="intro" class="intro" data-state="idle" role="region" aria-label="网站入场动画" hidden>
+    <canvas id="universe" aria-hidden="true"></canvas>
+    <div class="intro-coordinate coordinate-top" aria-hidden="true">INNER UNIVERSE / 001</div>
+    <div class="progress-rail progress-left" aria-hidden="true"><span class="progress-number">0%</span><div class="rail-track"><i></i></div></div>
+    <div class="progress-rail progress-right" aria-hidden="true"><span class="progress-number">0%</span><div class="rail-track"><i></i></div></div>
+    <div id="sanity-panel" class="sanity-panel" data-digits="3" role="group" aria-label="SANITY"><span class="sanity-label">SANITY</span><span id="sanity-value" class="sanity-value">999</span></div>
+    <div class="loading-copy"><span class="loading-label" aria-hidden="true">BEYOND THE VISIBLE WORLD</span><p id="loading-message" role="status">正在关闭认知滤网</p></div>
+    <div class="intro-title" aria-hidden="true"><h1 id="intro-chinese">虚实疆界</h1><p id="intro-italian" lang="it">Il confine tra reale e immaginario</p><span class="title-divider"></span></div>
+    <button id="enter-button" class="enter-button" aria-label="进入虚实疆界" disabled><span class="enter-diamond" aria-hidden="true"></span><small>CLICK TO ENTER</small></button>
+    <button id="skip-intro" class="skip-intro">跳过序章 <span aria-hidden="true">↗</span></button>
+    <div class="intro-coordinate coordinate-bottom" aria-hidden="true">EVERYTHING IS CONNECTED</div>
+    <div id="intro-progress" role="progressbar" aria-label="序章加载进度" aria-valuemin="0" aria-valuemax="100" aria-valuenow="0" class="sr-only"></div>
+    <p id="intro-status" class="sr-only" aria-live="polite"></p>
+  </div>
+
+  <div id="chapter-transition" class="chapter-transition" data-phase="black" role="region" aria-label="章节入场动画" hidden>
+    <div id="transition-art" class="transition-art"></div>
+    <div class="transition-caption"><p id="transition-number"></p><h2 id="transition-title" aria-live="polite"></h2></div>
+    <button id="transition-skip" class="transition-skip">略过 <span aria-hidden="true">↗</span></button>
+  </div>
+
+  <div id="site" class="site" inert aria-hidden="true">
+    <div class="manuscript-margins" aria-hidden="true"><i class="folio-corner folio-top-left"></i><i class="folio-corner folio-top-right"></i><span class="margin-script margin-script-left">qokedy ol shedy qoteedy</span><span class="margin-script margin-script-right">chedy qokedy ol otedy</span><i class="folio-corner folio-bottom-left"></i><i class="folio-corner folio-bottom-right"></i></div>
+    <header class="site-header">
+      <div class="header-inner">
+        <a class="brand" href="#home" aria-label="返回玻利瓦尔肤层主页"><svg viewBox="0 0 40 40" aria-hidden="true"><path d="M20 3v34M3 20h34M8 8l24 24M8 32L32 8"/><circle cx="20" cy="20" r="9"/><circle cx="20" cy="20" r="2"/></svg><span id="brand-title">虚实疆界</span></a>
+        <nav id="navigation" aria-label="章节选择"></nav>
+        <button id="replay-intro" class="icon-button" aria-label="重看入场动画" title="重看序章"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 10a8 8 0 1 1 .8 6M4 4v6h6"/></svg></button>
+      </div>
+    </header>
+
+    <aside id="music-player" class="music-player" aria-label="音乐播放器" data-playing="false">
+      <section id="music-panel" class="music-panel" aria-label="歌曲信息与控制" aria-hidden="true" inert>
+        <div class="music-heading"><span class="music-script" aria-hidden="true">ol shedy</span><span>声音的余波</span><span id="music-count">00 / 00</span></div>
+        <div class="music-track"><img id="music-cover" src="/assets/music-cover.svg" alt="" width="76" height="76"><div><p class="music-overline">NOW LISTENING</p><h2 id="music-title">等待一首音乐</h2><p id="music-artist" class="music-artist" hidden></p><p id="music-status" role="status">此刻，静默也是一种声音。</p></div></div>
+        <div class="music-timeline"><input id="music-seek" type="range" min="0" max="100" step="0.1" value="0" aria-label="播放进度" disabled><div><span id="music-elapsed">0:00</span><span id="music-duration">0:00</span></div></div>
+        <div class="music-controls">
+          <button id="music-previous" aria-label="上一首" disabled><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M6 5v14M18 5 8 12l10 7Z"/></svg></button>
+          <button id="music-play" class="music-play" aria-label="播放音乐" disabled><svg class="music-play-symbol" viewBox="0 0 24 24" aria-hidden="true"><path d="m9 5 11 7-11 7Z"/></svg><svg class="music-pause-symbol" viewBox="0 0 24 24" aria-hidden="true"><path d="M8 5v14M16 5v14"/></svg></button>
+          <button id="music-next" aria-label="下一首" disabled><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M18 5v14M6 5l10 7-10 7Z"/></svg></button>
+          <div class="music-volume"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M10 5 5 9H2v6h3l5 4ZM15 8a6 6 0 0 1 0 8M18 5a10 10 0 0 1 0 14"/></svg><input id="music-volume" type="range" min="0" max="1" step="0.01" value="0.5" aria-label="音乐音量" disabled></div>
+        </div>
+        <div class="music-actions"><button id="music-add" type="button">添加 MP3 <span aria-hidden="true">＋</span></button><button id="music-show-lyrics" type="button" aria-expanded="true" aria-controls="music-lyrics">歌词</button><button id="music-refresh" type="button" aria-label="重新扫描音乐文件夹" title="重新扫描音乐文件夹">↻</button></div>
+        <input id="music-files" type="file" accept=".mp3,audio/mpeg" multiple hidden>
+        <p id="music-import-status" class="music-import-status" role="status"></p>
+        <section id="music-lyrics" class="music-lyrics" aria-label="歌曲歌词"><div class="music-lyrics-heading"><span id="music-lyrics-mode">歌词</span><button id="music-follow" type="button" aria-pressed="true" disabled>跟随播放</button></div><div id="music-lyrics-lines" class="music-lyrics-lines" tabindex="0"><p class="music-lyrics-empty">歌词会随音乐在这里展开。</p></div></section>
+        <audio id="music-audio" preload="metadata"></audio>
+      </section>
+      <button id="music-toggle" class="music-toggle" aria-label="展开音乐栏" aria-controls="music-panel" aria-expanded="false" title="音乐"><span class="music-bars" aria-hidden="true"><i></i><i></i><i></i><i></i></span><span class="music-tab-text">音乐</span><span class="music-tab-arrow" aria-hidden="true">›</span></button>
+    </aside>
+
+    <main id="main-content" tabindex="-1">
+      <div id="home-view" class="page-view" hidden>
+        <section class="chapter-hero home-hero" aria-labelledby="home-title"><h1 id="home-title" class="sr-only">玻利瓦尔肤层</h1><div id="home-art" class="hero-art"></div></section>
+        <section class="home-overview" aria-label="网站介绍"><p class="eyebrow">IL CONFINE TRA REALE E IMMAGINARIO</p><div id="home-introduction" class="home-introduction"></div><div class="manuscript-divider" aria-hidden="true"><span>qokedy ol shedy</span></div><div class="index-heading"><span>四条通往深处的路</span><span>CHAPTERS / 01—04</span></div><div id="chapter-index" class="chapter-index"></div></section>
+      </div>
+      <div id="chapter-view" class="page-view" hidden>
+      <section class="chapter-hero" aria-labelledby="chapter-title"><h1 id="chapter-title" class="sr-only"></h1><div id="chapter-art" class="hero-art"></div></section>
+      <div class="chapter-collection">
+      <section class="collection-heading" aria-labelledby="collection-title">
+        <div><p class="eyebrow">A PERSONAL COLLECTION</p><h2 id="collection-title">章节作品<span class="heading-star" aria-hidden="true">✳</span></h2><p class="collection-description"></p></div>
+        <div class="collection-meta"><span class="demo-label"><i></i>示例作品</span><span id="work-count">06 件作品</span></div>
+      </section>
+      <section id="work-grid" class="work-grid" aria-label="作品列表"></section>
+      <p id="empty-collection" class="empty-collection" hidden>这一页的故事，还在路上。</p>
+      </div></div>
+    </main>
+
+    <footer class="site-footer"><div class="footer-flourish" aria-hidden="true"><span>qokedy ol shedy</span></div><div><span>虚与实，在此交界。</span><p lang="it" title="Il confine tra reale e immaginario">Il confine tra reale e immaginario</p></div><button id="back-to-top">回到顶部 <span aria-hidden="true">↑</span></button></footer>
+  </div>
+
+  <dialog id="work-dialog" class="work-dialog" aria-labelledby="detail-title">
+    <button id="close-dialog" class="dialog-close icon-button" aria-label="关闭作品"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="m6 6 12 12M6 18 18 6"/></svg></button>
+    <article><img id="detail-image" class="detail-image" alt=""><div class="detail-body"><p id="detail-type" class="eyebrow"></p><h2 id="detail-title"></h2><p id="detail-subtitle" class="detail-subtitle"></p><div id="detail-paragraphs" class="detail-paragraphs"></div>
+      <section id="comments-section" class="comments-section" aria-labelledby="comments-title"><div class="comments-heading"><h3 id="comments-title">留下一点回声</h3><span id="comments-count">0 条留言</span></div><p class="comments-description">一个名字，一些想说的话。</p><div id="comments-list" class="comments-list" aria-live="polite"></div><form id="comment-form"><div class="name-field"><label for="comment-name">你的名字</label><input id="comment-name" name="name" placeholder="如何称呼你？" maxlength="40" autocomplete="nickname" required></div><div><label for="comment-message">想留下的话</label><textarea id="comment-message" name="message" placeholder="把这一刻的想法留在这里…" rows="4" maxlength="2000" required></textarea></div><div class="form-bottom"><p id="form-status" role="status"></p><button id="submit-comment" class="submit-comment" type="submit">留下回声 <span aria-hidden="true">↗</span></button></div></form></section>
+    </div></article>
+  </dialog>
+  <noscript><div class="noscript">请启用 JavaScript，以观看序章和浏览作品。</div></noscript>
+  <script type="module" src="/app.js"></script>
+</body>
+</html>
