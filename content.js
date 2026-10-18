@@ -2,7 +2,7 @@ export const content = {
   title: '虚实疆界',
   italianTitle: 'Il confine tra reale e immaginario',
   comments: {
-    serverUrl: '',
+    serverUrl: 'https://page-comments.vercel.app',
   },
   music: [],
   musicDefaults: {
