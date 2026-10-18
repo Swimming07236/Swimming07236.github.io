@@ -3,6 +3,7 @@ import { initIntro } from './intro.js';
 import { initChapters } from './chapters.js';
 import { initMusic } from './music.js';
 import { initStartGate } from './start-gate.js';
+import { createCommentService, commentText } from './comments.js';
 
 const $ = selector => document.querySelector(selector);
 const site = $('#site');
@@ -12,6 +13,9 @@ let selectedCategory = 'home';
 let activeWork = null;
 let commentRequest = null;
 let openingButton = null;
+let displayedComments = [];
+let commentPage = 1;
+let commentLoadVersion = 0;
 
 function element(tag, className, text) {
   const node = document.createElement(tag);
@@ -26,6 +30,7 @@ $('#intro-chinese').textContent = content.title;
 $('#intro-italian').textContent = content.italianTitle;
 $('.site-footer p').textContent = content.italianTitle;
 const music = initMusic(content.music, content.musicDefaults);
+const commentsService = createCommentService(content.comments);
 
 function renderWorks() {
   const works = content.works.filter(work => work.category === selectedCategory);
@@ -62,7 +67,8 @@ function renderWorks() {
       const shape = document.createElementNS('http://www.w3.org/2000/svg', 'path');
       shape.setAttribute('d', 'M4 3h12a1 1 0 0 1 1 1v9a1 1 0 0 1-1 1H8l-4 3v-3H3V4a1 1 0 0 1 1-1Z');
       symbol.append(shape);
-      comments.append(symbol, element('span', '', `${counts.get(work.id) || 0} 条回声`));
+      const count = counts.get(work.id);
+      comments.append(symbol, element('span', '', commentsService.available ? count === undefined ? '留下一点回声' : `${count} 条回声` : '回声暂未开放'));
       comments.setAttribute('aria-label', `查看${work.title}的留言`);
       comments.addEventListener('click', () => openWork(work, comments, true));
       bottom.append(comments);
@@ -73,21 +79,14 @@ function renderWorks() {
   }
 }
 
-async function api(workId, options = {}) {
-  const response = await fetch(`/api/comments/${encodeURIComponent(workId)}`, options);
-  const result = await response.json();
-  if (!response.ok) throw new Error(result.error || '暂时无法读取留言。');
-  return result;
-}
-
 function updateCount(workId, count) {
   counts.set(workId, count);
   const label = document.querySelector(`[data-comments-for="${workId}"] span`);
   if (label) label.textContent = `${count} 条回声`;
 }
 
-function renderComments(comments) {
-  $('#comments-count').textContent = `${comments.length} 条留言`;
+function renderComments(comments, total) {
+  $('#comments-count').textContent = `${total} 条留言`;
   $('#comments-list').replaceChildren();
   if (!comments.length) {
     $('#comments-list').append(element('p', 'comment-empty', '这里还很安静。你的话，可以是第一道回声。'));
@@ -98,13 +97,28 @@ function renderComments(comments) {
     row.append(element('span', 'comment-avatar', Array.from(comment.name)[0]));
     const body = element('div', 'comment-content');
     const meta = element('div', 'comment-meta');
-    const time = element('time', '', new Intl.DateTimeFormat('zh-CN', { month: 'short', day: 'numeric', hour: '2-digit', minute: '2-digit' }).format(new Date(comment.createdAt)));
+    const time = element('time', '', comment.createdAt ? new Intl.DateTimeFormat('zh-CN', { month: 'short', day: 'numeric', hour: '2-digit', minute: '2-digit' }).format(new Date(comment.createdAt)) : '');
     time.dateTime = comment.createdAt;
     meta.append(element('strong', '', comment.name), time);
-    body.append(meta, element('p', '', comment.message));
+    body.append(meta);
+    if (comment.replyTo) body.append(element('span', 'comment-reply', `回复 ${comment.replyTo}`));
+    body.append(element('p', '', comment.message ?? commentText(comment.html)));
     row.append(body);
     $('#comments-list').append(row);
   }
+}
+
+async function loadComments(work, append = false) {
+  const version = ++commentLoadVersion;
+  const controller = commentRequest;
+  const result = await commentsService.list(work.id, { page: append ? commentPage + 1 : 1, signal: controller.signal });
+  if (version !== commentLoadVersion || activeWork?.id !== work.id || controller.signal.aborted) return;
+  displayedComments = append ? [...displayedComments, ...result.comments] : result.comments;
+  commentPage = result.page;
+  renderComments(displayedComments, result.total);
+  updateCount(work.id, result.total);
+  $('#more-comments').hidden = !result.hasMore;
+  $('#more-comments').disabled = false;
 }
 
 async function openWork(work, trigger, scrollToComments = false) {
@@ -112,6 +126,9 @@ async function openWork(work, trigger, scrollToComments = false) {
   openingButton = trigger;
   commentRequest?.abort();
   commentRequest = new AbortController();
+  commentLoadVersion++;
+  displayedComments = [];
+  commentPage = 1;
   const controller = commentRequest;
   $('#detail-image').src = work.image;
   $('#detail-image').alt = work.imageAlt;
@@ -124,6 +141,8 @@ async function openWork(work, trigger, scrollToComments = false) {
   $('#form-status').textContent = '';
   $('#form-status').className = '';
   $('#submit-comment').disabled = false;
+  $('#comment-form').hidden = !commentsService.available;
+  $('#more-comments').hidden = true;
   $('#comments-count').textContent = '…';
   $('#comments-list').replaceChildren(element('p', 'comment-empty', '正在聆听回声…'));
   document.body.classList.add('dialog-open');
@@ -131,11 +150,13 @@ async function openWork(work, trigger, scrollToComments = false) {
   dialog.scrollTop = 0;
   if (scrollToComments) requestAnimationFrame(() => $('#comments-section').scrollIntoView({ behavior: 'smooth', block: 'start' }));
   if (!work.commentsEnabled) return;
+  if (!commentsService.available) {
+    $('#comments-count').textContent = '';
+    $('#comments-list').replaceChildren(element('p', 'comment-empty', '留言区暂未开放，请稍后再来。'));
+    return;
+  }
   try {
-    const { comments } = await api(work.id, { signal: controller.signal });
-    if (activeWork?.id !== work.id || controller.signal.aborted) return;
-    renderComments(comments);
-    updateCount(work.id, comments.length);
+    await loadComments(work);
   } catch (error) {
     if (error.name === 'AbortError' || controller.signal.aborted) return;
     $('#comments-count').textContent = '';
@@ -147,6 +168,20 @@ $('#close-dialog').addEventListener('click', () => dialog.close());
 dialog.addEventListener('click', event => {
   const rect = dialog.getBoundingClientRect();
   if (event.target === dialog && (event.clientX < rect.left || event.clientX > rect.right || event.clientY < rect.top || event.clientY > rect.bottom)) dialog.close();
+});
+
+$('#more-comments').addEventListener('click', async () => {
+  const work = activeWork;
+  const request = commentRequest;
+  if (!work || $('#more-comments').disabled) return;
+  $('#more-comments').disabled = true;
+  try { await loadComments(work, true); }
+  catch (error) {
+    if (activeWork?.id !== work.id || request.signal.aborted) return;
+    $('#form-status').className = 'error';
+    $('#form-status').textContent = error.message;
+    $('#more-comments').disabled = false;
+  }
 });
 dialog.addEventListener('close', () => {
   document.body.classList.remove('dialog-open');
@@ -172,12 +207,12 @@ $('#comment-form').addEventListener('submit', async event => {
   $('#submit-comment').disabled = true;
   status.textContent = '正在保存…';
   try {
-    const { comments } = await api(work.id, { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify({ name, message }) });
-    updateCount(work.id, comments.length);
+    const { pending } = await commentsService.submit(work.id, { name, message });
     if (activeWork?.id === work.id && commentRequest === submissionRequest) {
-      renderComments(comments);
       $('#comment-message').value = '';
-      status.textContent = '你的回声，已经留在这里。';
+      status.textContent = pending ? '你的回声已提交，审核通过后会出现在这里。' : '你的回声，已经留在这里。';
+      try { await loadComments(work); }
+      catch { if (activeWork?.id === work.id && commentRequest === submissionRequest) status.textContent = '留言已提交，列表暂未刷新，请稍后重新打开作品查看。'; }
     }
   } catch (error) {
     if (activeWork?.id === work.id && commentRequest === submissionRequest) {
@@ -197,6 +232,6 @@ const chapters = initChapters({ content, site, onSceneReady: music.endIntro, onC
 const intro = initIntro({ content, onEnter: chapters.prime, onComplete: chapters.start, onProgress: music.setIntroSanity, onInteraction: music.resumeIntroIfBlocked });
 initStartGate({ music, intro, chapters, site });
 
-for (const work of content.works.filter(item => item.commentsEnabled)) {
-  api(work.id).then(({ comments }) => updateCount(work.id, comments.length)).catch(() => {});
+for (const work of content.works.filter(item => item.commentsEnabled && commentsService.available)) {
+  commentsService.count(work.id).then(count => updateCount(work.id, count)).catch(() => {});
 }

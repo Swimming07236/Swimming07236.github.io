@@ -16,6 +16,7 @@
   <link rel="stylesheet" href="/manuscript.css">
   <link rel="stylesheet" href="/music.css">
   <link rel="stylesheet" href="/start-gate.css">
+  <link rel="stylesheet" href="/comments.css">
 </head>
 <body class="intro-active">
   <section id="start-gate" class="start-gate" aria-labelledby="start-question">
@@ -111,7 +112,17 @@
   <dialog id="work-dialog" class="work-dialog" aria-labelledby="detail-title">
     <button id="close-dialog" class="dialog-close icon-button" aria-label="关闭作品"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="m6 6 12 12M6 18 18 6"/></svg></button>
     <article><img id="detail-image" class="detail-image" alt=""><div class="detail-body"><p id="detail-type" class="eyebrow"></p><h2 id="detail-title"></h2><p id="detail-subtitle" class="detail-subtitle"></p><div id="detail-paragraphs" class="detail-paragraphs"></div>
-      <section id="comments-section" class="comments-section" aria-labelledby="comments-title"><div class="comments-heading"><h3 id="comments-title">留下一点回声</h3><span id="comments-count">0 条留言</span></div><p class="comments-description">一个名字，一些想说的话。</p><div id="comments-list" class="comments-list" aria-live="polite"></div><form id="comment-form"><div class="name-field"><label for="comment-name">你的名字</label><input id="comment-name" name="name" placeholder="如何称呼你？" maxlength="40" autocomplete="nickname" required></div><div><label for="comment-message">想留下的话</label><textarea id="comment-message" name="message" placeholder="把这一刻的想法留在这里…" rows="4" maxlength="2000" required></textarea></div><div class="form-bottom"><p id="form-status" role="status"></p><button id="submit-comment" class="submit-comment" type="submit">留下回声 <span aria-hidden="true">↗</span></button></div></form></section>
+      <section id="comments-section" class="comments-section" aria-labelledby="comments-title">
+        <div class="comments-heading"><h3 id="comments-title">留下一点回声</h3><span id="comments-count">0 条留言</span></div>
+        <p class="comments-description">一个名字，一些想说的话。</p>
+        <div id="comments-list" class="comments-list" aria-live="polite"></div>
+        <button id="more-comments" class="more-comments" type="button" hidden>读取更早的回声 <span aria-hidden="true">↓</span></button>
+        <form id="comment-form">
+          <div class="name-field"><label for="comment-name">你的名字</label><input id="comment-name" name="name" placeholder="如何称呼你？" maxlength="40" autocomplete="nickname" required></div>
+          <div><label for="comment-message">想留下的话</label><textarea id="comment-message" name="message" placeholder="把这一刻的想法留在这里…" rows="4" maxlength="2000" required></textarea></div>
+          <div class="form-bottom"><p id="form-status" role="status"></p><button id="submit-comment" class="submit-comment" type="submit">留下回声 <span aria-hidden="true">↗</span></button></div>
+        </form>
+      </section>
     </div></article>
   </dialog>
   <noscript><div class="noscript">请启用 JavaScript，以观看序章和浏览作品。</div></noscript>

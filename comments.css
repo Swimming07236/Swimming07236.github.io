@@ -1,0 +1,6 @@
+.comments-section [hidden] { display: none !important; }
+.more-comments { display: block; margin: 4px auto 28px; padding: 10px 18px; border: 1px solid #38412d; border-radius: 24px; background: transparent; color: #a9b697; font-size: 11px; letter-spacing: .5px; }
+.more-comments span { margin-left: 12px; }
+.more-comments:hover { border-color: #8e9e76; color: #d0dcc0; }
+.more-comments:disabled { opacity: .5; cursor: wait; }
+.comment-reply { display: block; color: #8b987c; margin-top: 9px; font-size: 10px; overflow-wrap: anywhere; }
