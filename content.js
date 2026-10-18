@@ -6,7 +6,7 @@ export const content = {
     home: 'random',
   },
   comments: {
-  serverUrl: 'https://xushi-comments.vercel.app',
+  serverUrl: 'https://page-comments.vercel.app',
   },
   introDuration: 8000,
   introEffects: {
