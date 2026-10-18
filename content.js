@@ -5,6 +5,9 @@ export const content = {
   musicDefaults: {
     home: 'random',
   },
+  comments: {
+  serverUrl: 'https://xushi-comments.vercel.app',
+  },
   introDuration: 8000,
   introEffects: {
     glitchIntervalMin: 8000,
